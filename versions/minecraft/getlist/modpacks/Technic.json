@@ -1,0 +1,93 @@
+[
+    {
+        "name": "1.12.2pack",
+        "version": "The 1.12.2 Pack",
+        "mcversion": "1.12.2",
+        "type": "technicpack"
+    },
+    {
+        "name": "tekxit3.14",
+        "version": "Tekxit 3.14 Pi",
+        "mcversion": "1.12.2",
+        "type": "technicpack"
+    },
+    {
+        "name": "1.7.10pack",
+        "version": "The 1.7.10 Pack",
+        "mcversion": "1.7.10",
+        "type": "technicpack"
+    },
+    {
+        "name": "aotb",
+        "version": "Attack of the B-Team",
+        "mcversion": "1.6.4",
+        "type": "technicpack"
+    },
+    {
+        "name": "bigdig",
+        "version": "Big Dig",
+        "mcversion": "1.5.2",
+        "type": "technicpack"
+    },
+
+    {
+        "name": "blightfall",
+        "version": "Blightfall",
+        "mcversion": "1.7.10",
+        "type": "technicpack"
+    },
+    {
+        "name": "hexxit",
+        "version": "Hexxit",
+        "mcversion": "1.5.2",
+        "type": "technicpack"
+    },
+    {
+        "name": "hexxit2",
+        "version": "Hexxit II",
+        "mcversion": "1.12.2",
+        "type": "technicpack"
+    },
+    {
+        "name": "tekkit",
+        "version": "Tekkit",
+        "mcversion": "1.6.4",
+        "type": "technicpack"
+    },
+    {
+        "name": "tekkit2",
+        "version": "Tekkit 2",
+        "mcversion": "1.12.2",
+        "type": "technicpack"
+    },
+    {
+        "name": "tekkitclassic",
+        "version": "Tekkit Classic",
+        "mcversion": "1.2.5",
+        "type": "technicpack"
+    },
+    {
+        "name": "tekkitlegends",
+        "version": "Tekkit Legends",
+        "mcversion": "1.7.10",
+        "type": "technicpack"
+    },
+    {
+        "name": "tekkitlite",
+        "version": "Tekkit Lite",
+        "mcversion": "1.4.7",
+        "type": "technicpack"
+    },
+    {
+        "name": "voltz",
+        "version": "Voltz",
+        "mcversion": "1.5.2",
+        "type": "technicpack"
+    },
+    {
+        "name": "yogbox",
+        "version": "Yogbox",
+        "mcversion": "1.12.2",
+        "type": "technicpack"
+    }
+]

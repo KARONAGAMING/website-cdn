@@ -1,0 +1,230 @@
+[
+    {
+        "name": "1.20.1.jar",
+        "version": "1.20.1"
+    },
+    {
+        "name": "1.20.jar",
+        "version": "1.20"
+    },
+    {
+        "name": "1.19.4.jar",
+        "version": "1.19.4"
+    },
+    {
+        "name": "1.19.3.jar",
+        "version": "1.19.3"
+    },
+    {
+        "name": "1.19.2.jar",
+        "version": "1.19.2"
+    },
+    {
+        "name": "1.19.1.jar",
+        "version": "1.19.1"
+    },
+    {
+        "name": "1.19.jar",
+        "version": "1.19"
+    },
+    {
+        "name": "1.18.2.jar",
+        "version": "1.18.2"
+    },
+    {
+        "name": "1.18.1.jar",
+        "version": "1.18.1"
+    },
+    {
+        "name": "1.18.jar",
+        "version": "1.18"
+    },
+    {
+        "name": "1.17.1.jar",
+        "version": "1.17.1"
+    },
+    {
+        "name": "1.17.jar",
+        "version": "1.17"
+    },
+    {
+        "name": "1.16.5.jar",
+        "version": "1.16.5"
+    },
+    {
+        "name": "1.16.4.jar",
+        "version": "1.16.4"
+    },
+    {
+        "name": "1.16.3.jar",
+        "version": "1.16.3"
+    },
+    {
+        "name": "1.16.2.jar",
+        "version": "1.16.2"
+    },
+    {
+        "name": "1.16.1.jar",
+        "version": "1.16.1"
+    },
+    {
+        "name": "1.15.2.jar",
+        "version": "1.15.2"
+    },
+    {
+        "name": "1.15.1.jar",
+        "version": "1.15.1"
+    },
+    {
+        "name": "1.15.jar",
+        "version": "1.15"
+    },
+    {
+        "name": "1.14.4.jar",
+        "version": "1.14.4"
+    },
+    {
+        "name": "1.14.3.jar",
+        "version": "1.14.3"
+    },
+    {
+        "name": "1.14.2.jar",
+        "version": "1.14.2"
+    },
+    {
+        "name": "1.14.1.jar",
+        "version": "1.14.1"
+    },
+    {
+        "name": "1.14.jar",
+        "version": "1.14"
+    },
+    {
+        "name": "1.13.2.jar",
+        "version": "1.13.2"
+    },
+    {
+        "name": "1.13.1.jar",
+        "version": "1.13.1"
+    },
+    {
+        "name": "1.13.jar",
+        "version": "1.13"
+    },
+    {
+        "name": "1.12.2.jar",
+        "version": "1.12.2"
+    },
+    {
+        "name": "1.12.1.jar",
+        "version": "1.12.1"
+    },
+    {
+        "name": "1.12.jar",
+        "version": "1.12"
+    },
+    {
+        "name": "1.11.2.jar",
+        "version": "1.11.2"
+    },
+    {
+        "name": "1.11.1.jar",
+        "version": "1.11.1"
+    },
+    {
+        "name": "1.11.jar",
+        "version": "1.11"
+    },
+    {
+        "name": "1.10.2.jar",
+        "version": "1.10.2"
+    },
+    {
+        "name": "1.10.jar",
+        "version": "1.10"
+    },
+    {
+        "name": "1.9.4.jar",
+        "version": "1.9.4"
+    },
+    {
+        "name": "1.9.2.jar",
+        "version": "1.9.2"
+    },
+    {
+        "name": "1.9.jar",
+        "version": "1.9"
+    },
+    {
+        "name": "1.8.8.jar",
+        "version": "1.8.8"
+    },
+    {
+        "name": "1.8.7.jar",
+        "version": "1.8.7"
+    },
+    {
+        "name": "1.8.6.jar",
+        "version": "1.8.6"
+    },
+    {
+        "name": "1.8.5.jar",
+        "version": "1.8.5"
+    },
+    {
+        "name": "1.8.4.jar",
+        "version": "1.8.4"
+    },
+    {
+        "name": "1.8.3.jar",
+        "version": "1.8.3"
+    },
+    {
+        "name": "1.8.jar",
+        "version": "1.8"
+    },
+    {
+        "name": "1.7.10.jar",
+        "version": "1.7.10"
+    },
+    {
+        "name": "1.7.9.jar",
+        "version": "1.7.9"
+    },
+    {
+        "name": "1.7.8.jar",
+        "version": "1.7.8"
+    },
+    {
+        "name": "1.7.5.jar",
+        "version": "1.7.5"
+    },
+    {
+        "name": "1.7.2.jar",
+        "version": "1.7.2"
+    },
+    {
+        "name": "1.6.4.jar",
+        "version": "1.6.4"
+    },
+    {
+        "name": "1.6.2.jar",
+        "version": "1.6.2"
+    },
+    {
+        "name": "1.5.2.jar",
+        "version": "1.5.2"
+    },
+    {
+        "name": "1.5.1.jar",
+        "version": "1.5.1"
+    },
+    {
+        "name": "1.4.7.jar",
+        "version": "1.4.7"
+    },
+    {
+        "name": "1.4.6.jar",
+        "version": "1.4.6"
+    }
+]

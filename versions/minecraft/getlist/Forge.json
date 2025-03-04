@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Forge 1.20.4",
+        "version": "1.20.4"
+    },
+    {
+        "name": "Forge 1.20.3",
+        "version": "1.20.3"
+    },
+    {
+        "name": "Forge 1.20.2",
+        "version": "1.20.2"
+    },
+    {
+        "name": "Forge 1.20.1",
+        "version": "1.20.1"
+    },
+    {   
+        "name": "Forge 1.20",
+        "version": "1.20"
+    },
+    {
+        "name": "Forge 1.19.4",
+        "version": "1.19.4"
+    },
+ {
+        "name": "Forge 1.19.3",
+        "version": "1.19.3"
+    },
+    {
+        "name": "Forge 1.19.2",
+        "version": "1.19.2"
+    },
+    {
+        "name": "Forge 1.19.1",
+        "version": "1.19.1"
+    },
+    {
+        "name": "Forge 1.19",
+        "version": "1.19"
+    },
+    {
+        "name": "Forge 1.18.2",
+        "version": "1.18.2"
+    },
+    {
+        "name": "Forge 1.18.1",
+	"version": "1.18.1"
+    },
+    {
+        "name": "Forge 1.18",
+        "version": "1.18"
+    },
+    {
+        "name": "Forge 1.17.1",
+        "version": "1.17.1"
+    },
+    {
+        "name": "Forge 1.16.5",
+        "version": "1.16.5"
+    },
+    {
+        "name": "Forge 1.15.2",
+        "version": "1.15.2"	
+    },
+    {
+        "name": "Forge 1.14.4",
+        "version": "1.14.4"
+    },
+    {
+        "name": "Forge 1.13.2",
+        "version": "1.13.2"	
+    },
+    {
+        "name": "Forge 1.12.2",
+        "version": "1.12.2"	
+    },
+    {
+        "name": "Forge 1.10.2",
+        "version": "1.10.2"	
+    },
+    {
+        "name": "Forge 1.8.9",
+        "version": "1.8.9"
+    },
+    {
+        "name": "Forge 1.7.10",
+        "version": "1.7.10"	
+    },
+    {
+        "name": "Forge 1.6.4",
+        "version": "1.6.4"
+    },
+    {
+        "name": "Forge 1.5.2",
+        "version": "1.5.2"
+    }
+]

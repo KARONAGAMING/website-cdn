@@ -1,0 +1,302 @@
+[
+    {
+        "name": "RLCraft",
+        "version": "RLCraft",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "Pixelmon",
+        "version": "The Pixelmon Modpack",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "Bettermc",
+        "version": "Better MC [FABRIC]",
+        "mcversion": "1.19.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "AllTheMods7",
+        "version": "All the Mods 7 - ATM7",
+        "mcversion": "1.18.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "Bettermc2",
+        "version": "Better MC 1 [FORGE]",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "Skyfactory4",
+        "version": "SkyFactory 4",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "Bettermc3",
+        "version": "Better MC 2 [FORGE]",
+        "mcversion": "1.18.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "vaulthunter",
+        "version": "Vault Hunters",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "mediavalmc",
+        "version": "Medieval MC FABRIC",
+        "mcversion": "1.19.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "valhelsia",
+        "version": "Valhelsia: Enhanced Vanilla",
+        "mcversion": "1.18.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "allthemodssix",
+        "version": "All the Mods 6 (ATM6)",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "rad",
+        "version": "Roguelike Adventures and Dungeons",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "mustard",
+        "version": "Mustard Virus by Forge Labs",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "medieval2",
+        "version": "Medieval MC FORGE",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "stoneblock",
+        "version": "StoneBlock",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "m&m",
+        "version": "Mineshafts & Monsters",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "alo",
+        "version": "All in One",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "mc4",
+        "version": "MagiCraft 4",
+        "mcversion": "1.18.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "servtech",
+        "version": "SevTech: Ages",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "caab",
+        "version": "Create: Above and Beyond",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "demonslayers",
+        "version": "Demon Slayers Unleashed",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "darkrpg",
+        "version": "DarkRPG - RPG Quest Magic & Origins",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "atms",
+        "version": "All the Magic Spellbound - ATMS",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "pokecraft",
+        "version": "Pokehaan Craft",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "insanecraft",
+        "version": "InsaneCraft Modpack",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "aof5",
+        "version": "All of Fabric 5 - AOF5",
+        "mcversion": "1.18.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "sevtechages",
+        "version": "SevTech: Ages of the Sky",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "mceternal",
+        "version": "MC Eternal",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "crazycraft",
+        "version": "Crazy Craft Updated",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "ftbstoneblock2",
+        "version": "FTB Presents Stoneblock 2",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "skyblock3",
+        "version": "Modern Skyblock 3: Departed",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "valhelsia3",
+        "version": "Valhelsia 3",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "ddss",
+        "version": "Dungeons, Dragons and Space Shuttles",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "crucial2",
+        "version": "Crucial 2 - The Refresh Update",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "ngmp",
+        "version": "New Game ModPack",
+        "mcversion": "1.19.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "atm2sky",
+        "version": "All the Mods 7 - To the Sky - atm7sky",
+        "mcversion": "1.18.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "atm8",
+        "version": "All the Mods 8 - ATM8 - 1.19.2",
+        "mcversion": "1.18.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "atm6skyblock",
+        "version": "All the Mods 6 - To the Sky - ATM6sky - Skyblock",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "lsoh",
+        "version": "Last Days of Humanity",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "ftbinfinity",
+        "version": "FTB Infinity Evolved",
+        "mcversion": "1.7.10",
+        "type": "curseforge"
+    },
+    {
+        "name": "foreverstranded",
+        "version": "Forever Stranded",
+        "mcversion": "1.10.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "crazycraftdeux",
+        "version": "Kinda Crazy Craft",
+        "mcversion": "1.7.10",
+        "type": "curseforge"
+    },
+    {
+        "name": "karmaland5",
+        "version": "Karmaland 5 ModPack",
+        "mcversion": "1.18.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "create",
+        "version": "Create Flavored",
+        "mcversion": "1.18.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "ozone3",
+        "version": "Project Ozone 3 A New Way Forward",
+        "mcversion": "1.12.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "skyfactory3",
+        "version": "FTB Presents SkyFactory 3",
+        "mcversion": "1.10.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "eniogmatica6",
+        "version": "Enigmatica 6 - E6",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "lifeinvillage",
+        "version": "Life in the village 2",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    },
+    {
+        "name": "hrn",
+        "version": "HR: New Beginnings",
+        "mcversion": "1.15.2",
+        "type": "curseforge"
+    },
+    {
+        "name": "cavefactory",
+        "version": "Cave Factory",
+        "mcversion": "1.16.5",
+        "type": "curseforge"
+    }
+]

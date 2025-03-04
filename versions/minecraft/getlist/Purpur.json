@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Purpur 1.21.4",
+        "version": "1.21.4",
+        "md5": "821f5aff6ab18263b98af20af2beaeb8"
+    },
+    {
+        "name": "Purpur 1.21.3",
+        "version": "1.21.3",
+        "md5": "7212e71081f6e1560d9b09a2aa316a4f"
+    },
+    {
+        "name": "Purpur 1.21.1",
+        "version": "1.21.1",
+        "md5": "dc0026462cac76c869335feb43388a76"
+    },
+    {
+        "name": "Purpur 1.21",
+        "version": "1.21",
+        "md5": "adb0fe06e26f7eaefb1359b2942245be"
+    },
+    {
+        "name": "Purpur 1.20.6",
+        "version": "1.20.6",
+        "md5": "d4ef6834b254dac98f7ad8b3b10bda54"
+    },
+    {
+        "name": "Purpur 1.20.4",
+        "version": "1.20.4",
+        "md5": "c753922385b06885306c0b36a689c97f"
+    },
+    {
+        "name": "Purpur 1.20.2",
+        "version": "1.20.2",
+        "md5": "6166a82fe6ab77479a7ea9192fbba85d"
+    },
+    {
+        "name": "Purpur 1.20.1",
+        "version": "1.20.1",
+        "md5": "59bbff70cc394c053a71baccc428063b"
+    },
+    {
+        "name": "Purpur 1.20",
+        "version": "1.20",
+        "md5": "6681fb59d88f5ff684969034e3522d2c"
+    },
+    {
+        "name": "Purpur 1.19.4",
+        "version": "1.19.4",
+        "md5": "9fc17be9cd5eeb4146d1d065d615a7ec"
+    },
+    {
+        "name": "Purpur 1.19.3",
+        "version": "1.19.3",
+        "md5": "d8a34ca5dc7eb86f2730d12567a46881"
+    },
+    {
+        "name": "Purpur 1.19.2",
+        "version": "1.19.2",
+        "md5": "86a9ab22bb0fe445761eb16aab8cf30a"
+    },
+    {
+        "name": "Purpur 1.19.1",
+        "version": "1.19.1",
+        "md5": "b2d2306346f234c21780542c3679fe73"
+    },
+    {
+        "name": "Purpur 1.19",
+        "version": "1.19",
+        "md5": "411f504d4acf4855b2c1bfa9f527adb7"
+    },
+    {
+        "name": "Purpur 1.18.2",
+        "version": "1.18.2",
+        "md5": "652a529d06ad6c4334f5a446c9eee4e6"
+    },
+    {
+        "name": "Purpur 1.18.1",
+        "version": "1.18.1",
+        "md5": "fcda4de026443dbb72924333c4ffe2f6"
+    },
+    {
+        "name": "Purpur 1.18",
+        "version": "1.18",
+        "md5": "12c29f9ae72726f08dd3132fce4e24b3"
+    },
+    {
+        "name": "Purpur 1.17.1",
+        "version": "1.17.1",
+        "md5": "c02ed1be905a0fd60b4ab4cd09f09967"
+    },
+    {
+        "name": "Purpur 1.17",
+        "version": "1.17",
+        "md5": "e73fb5348826c47c267c9588bd5a804d"
+    },
+    {
+        "name": "Purpur 1.16.5",
+        "version": "1.16.5",
+        "md5": "525c7aa92e6cef820c308a60f54a43ca"
+    },
+    {
+        "name": "Purpur 1.16.4",
+        "version": "1.16.4",
+        "md5": "f6969ccbb0df490a9d1eeff1d7bb9507"
+    },
+    {
+        "name": "Purpur 1.16.3",
+        "version": "1.16.3",
+        "md5": "744618efe4d47bfcf5c7771f2fca9102"
+    },
+    {
+        "name": "Purpur 1.16.2",
+        "version": "1.16.2",
+        "md5": "a05fc7dae7eaf1c39e5046b3352f10e5"
+    },
+    {
+        "name": "Purpur 1.16.1",
+        "version": "1.16.1",
+        "md5": "7338d696bdf6d2c04fab0c3a68d9ad6a"
+    },
+    {
+        "name": "Purpur 1.15.2",
+        "version": "1.15.2",
+        "md5": "08a2688a1125df57e33191657cc88666"
+    },
+    {
+        "name": "Purpur 1.15.1",
+        "version": "1.15.1",
+        "md5": "71e72a2bc303c05b6b4c29c11777c980"
+    },
+    {
+        "name": "Purpur 1.15",
+        "version": "1.15",
+        "md5": "3a063fb1271fbb9b02a40f5cb2d5defc"
+    },
+    {
+        "name": "Purpur 1.14.4",
+        "version": "1.14.4",
+        "md5": "af5d07c76205e2442205860c3087fe68"
+    },
+    {
+        "name": "Purpur 1.14.3",
+        "version": "1.14.3",
+        "md5": "3d0a0f20512b0a7e7ecee1339979f49e"
+    },
+    {
+        "name": "Purpur 1.14.2",
+        "version": "1.14.2",
+        "md5": "7ab4a3b9ae737ea86f0c3cf358584203"
+    },
+    {
+        "name": "Purpur 1.14.1",
+        "version": "1.14.1",
+        "md5": "fe7f77052f2e7b6d396e2721c021932b"
+    }
+]

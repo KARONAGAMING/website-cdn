@@ -1,0 +1,86 @@
+[
+  {
+        "name": "Fabric 1.20.4",
+        "version": "1.20.4"
+    },
+  {
+        "name": "Fabric 1.20.3",
+        "version": "1.20.3"
+    },
+    {
+        "name": "Fabric 1.20.2",
+        "version": "1.20.2"
+    },
+    {
+        "name": "Fabric 1.20.1",
+        "version": "1.20.1"
+    },
+    {   
+        "name": "Fabric 1.20",
+        "version": "1.20"
+    },
+    {
+        "name": "Fabric 1.19.4",
+        "version": "1.19.4"
+    },
+    {
+        "name": "Fabric 1.19.3",
+        "version": "1.19.3"
+    },
+    {
+        "name": "Fabric 1.19.2",
+        "version": "1.19.2"
+    },
+    {
+        "name": "Fabric 1.19.1",
+        "version": "1.19.1"
+    },
+    {
+        "name": "Fabric 1.19",
+        "version": "1.19"
+    },
+    {
+        "name": "Fabric 1.18.2",
+        "version": "1.18.2"
+    },
+    {
+        "name": "Fabric 1.18.1",
+        "version": "1.18.1"
+    },
+    {
+        "name": "Fabric 1.18",
+        "version": "1.18"
+    },
+    {
+        "name": "Fabric 1.17.1",
+        "version": "1.17.1"	
+    },
+    {
+        "name": "Fabric 1.17",
+        "version": "1.17"
+    },
+    {
+        "name": "Fabric 1.16.5",
+        "version": "1.16.5"
+    },
+    {
+        "name": "Fabric1.16",
+        "version": "1.16"
+    },
+    {
+        "name": "Fabric 1.15.2",
+        "version": "1.15.2"
+    },
+    {
+        "name": "Fabric 1.15",
+        "version": "1.15"
+    },
+    {
+        "name": "Fabric 1.14.4",
+        "version": "1.14.4"
+    },
+    {
+        "name": "Fabric 1.14",
+        "version": "1.14"
+    }
+]

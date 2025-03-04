@@ -1,0 +1,20 @@
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 year"
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresByType image/webp "access plus 1 year"
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType image/svg+xml .svg .svgz
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresByType image/svg+xml "access plus 1 year"
+</IfModule>

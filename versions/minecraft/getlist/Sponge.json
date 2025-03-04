@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Sponge v13.0.0",
+        "version": "v13.0.0",
+        "md5": "0f857e9e90ace1d9d06aa75d12b59079855432e7"
+    },
+    {
+        "name": "Sponge v12.0.0",
+        "version": "v12.0.0",
+        "md5": "5bec201052e0e2af67af29d6b8653ab356de6b24"
+    },
+    {
+        "name": "Sponge v11.0.0",
+        "version": "v11.0.0",
+        "md5": "1460c68d2460bb60dd1ab23375f5959bc8d99f50"
+    },
+    {
+        "name": "Sponge v10.0.0",
+        "version": "v10.0.0",
+        "md5": "8b7423185062554454dc2fb65fa5ed4d820b672e"
+    },
+    {
+        "name": "Sponge v9.0.0",
+        "version": "v9.0.0",
+        "md5": "d3a0492e8c0578bae13f9d969d677141d2599240"
+    },
+    {
+        "name": "Sponge v8.2.0",
+        "version": "v8.2.0",
+        "md5": "09a90340a7bcbf68ff4ff34c5c6210fd797b7477"
+    },
+    {
+        "name": "Sponge v8.1.0",
+        "version": "v8.1.0",
+        "md5": "233b53ce4d2d877a90cb4418ae2f75912d695d1b"
+    },
+    {
+        "name": "Sponge v8.0.0",
+        "version": "v8.0.0",
+        "md5": "6ed7bc37ea27cd7991fbe8274bfb0bc8437f8929"
+    },
+    {
+        "name": "Sponge v7.4.0",
+        "version": "v7.4.0",
+        "md5": "a326af205284136cee724fb8455cdc1cd6747952"
+    },
+    {
+        "name": "Sponge v7.3.0",
+        "version": "v7.3.0",
+        "md5": "7127e088200b9fcc4e953baeca0c86d819cb996d"
+    },
+    {
+        "name": "Sponge v7.2.0",
+        "version": "v7.2.0",
+        "md5": "fe189dcf5c0ed2b175e9b717e48e16d6df6f318b"
+    },
+    {
+        "name": "Sponge v7.1.0",
+        "version": "v7.1.0",
+        "md5": "ff990df4aa4e4995c5cd3973c35519694a4e88a3"
+    },
+    {
+        "name": "Sponge v7.0.0",
+        "version": "v7.0.0",
+        "md5": "e023396a1ac9684391460c2c8f79796839a83ef1"
+    },
+    {
+        "name": "Sponge v6.0.0",
+        "version": "v6.0.0",
+        "md5": "ab735e2c0bd5c524f500d5891d2f46989b9eeca9"
+    },
+    {
+        "name": "Sponge v5.1.0",
+        "version": "v5.1.0",
+        "md5": "cf4dfb126f4af1d6d200d4011b05024cdb1f19af"
+    },
+    {
+        "name": "Sponge v5.0.0",
+        "version": "v5.0.0",
+        "md5": "1637d709586516e8799d274723fb3af071d53de2"
+    },
+    {
+        "name": "Sponge v4.1.0",
+        "version": "v4.1.0",
+        "md5": "13503f03116959bb558df90cd4a516c96cfc55fd"
+    },
+    {
+        "name": "Sponge v4.0.3",
+        "version": "v4.0.3",
+        "md5": "694ebf6b868aaf68e1cc709ae3a09e7e354d7676"
+    },
+    {
+        "name": "Sponge v4.0.1",
+        "version": "v4.0.1",
+        "md5": "ac3f07d26fbe156337960b7fa83a21825ec3a165"
+    },
+    {
+        "name": "Sponge v4.0.0",
+        "version": "v4.0.0",
+        "md5": "3fed140e3c13429ec060a1d43b26b1367c17748b"
+    },
+    {
+        "name": "Sponge v3.1.0",
+        "version": "v3.1.0",
+        "md5": "4cceba14edc59a1dacce4d86a5ea80b00f25f5ce"
+    },
+    {
+        "name": "Sponge v3.0.0",
+        "version": "v3.0.0",
+        "md5": "ebcdbe425f502304d2d99da7e79930af37453dd2"
+    },
+    {
+        "name": "Sponge v2.0",
+        "version": "v2.0",
+        "md5": "58a26e358acb01d22632c53d8a9ec3f8fe400453"
+    },
+    {
+        "name": "Sponge v1.0",
+        "version": "v1.0",
+        "md5": "e30e682674f1df1600ad3d9701f0d2b469cfb4ec"
+    }
+]

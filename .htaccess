@@ -1,0 +1,8 @@
+# Enable caching for static assets
+<IfModule mod_headers.c>
+    # Cache specified file extensions
+    <FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|webp|js|css|swf)$">
+        Header set Cache-Control "max-age=31536000, public"
+    </FilesMatch>
+</IfModule>
+

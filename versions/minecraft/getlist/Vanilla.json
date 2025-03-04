@@ -1,0 +1,427 @@
+[
+    {
+        "name": "Vanilla 1.21.4",
+        "version": "1.21.4",
+        "md5": "4707d00eb834b446575d89a61a11b5d548d8c001"
+    },
+    {
+        "name": "Vanilla 1.21.3",
+        "version": "1.21.3",
+        "md5": "45810d238246d90e811d896f87b14695b7fb6839"
+    },
+    {
+        "name": "Vanilla 1.21.2",
+        "version": "1.21.2",
+        "md5": "7bf95409b0d9b5388bfea3704ec92012d273c14c"
+    },
+    {
+        "name": "Vanilla 1.21.1",
+        "version": "1.21.1",
+        "md5": "59353fb40c36d304f2035d51e7d6e6baa98dc05c"
+    },
+    {
+        "name": "Vanilla 1.21",
+        "version": "1.21",
+        "md5": "450698d1863ab5180c25d7c804ef0fe6369dd1ba"
+    },
+    {
+        "name": "Vanilla 1.20.6",
+        "version": "1.20.6",
+        "md5": "145ff0858209bcfc164859ba735d4199aafa1eea"
+    },
+    {
+        "name": "Vanilla 1.20.5",
+        "version": "1.20.5",
+        "md5": "79493072f65e17243fd36a699c9a96b4381feb91"
+    },
+    {
+        "name": "Vanilla 1.20.4",
+        "version": "1.20.4",
+        "md5": "8dd1a28015f51b1803213892b50b7b4fc76e594d"
+    },
+    {
+        "name": "Vanilla 1.20.3",
+        "version": "1.20.3",
+        "md5": "4fb536bfd4a83d61cdbaf684b8d311e66e7d4c49"
+    },
+    {
+        "name": "Vanilla 1.20.2",
+        "version": "1.20.2",
+        "md5": "5b868151bd02b41319f54c8d4061b8cae84e665c"
+    },
+    {
+        "name": "Vanilla 1.20.1",
+        "version": "1.20.1",
+        "md5": "84194a2f286ef7c14ed7ce0090dba59902951553"
+    },
+    {
+        "name": "Vanilla 1.20",
+        "version": "1.20",
+        "md5": "15c777e2cfe0556eef19aab534b186c0c6f277e1"
+    },
+    {
+        "name": "Vanilla 1.19.4",
+        "version": "1.19.4",
+        "md5": "8f3112a1049751cc472ec13e397eade5336ca7ae"
+    },
+    {
+        "name": "Vanilla 1.19.3",
+        "version": "1.19.3",
+        "md5": "c9df48efed58511cdd0213c56b9013a7b5c9ac1f"
+    },
+    {
+        "name": "Vanilla 1.19.2",
+        "version": "1.19.2",
+        "md5": "f69c284232d7c7580bd89a5a4931c3581eae1378"
+    },
+    {
+        "name": "Vanilla 1.19.1",
+        "version": "1.19.1",
+        "md5": "8399e1211e95faa421c1507b322dbeae86d604df"
+    },
+    {
+        "name": "Vanilla 1.19",
+        "version": "1.19",
+        "md5": "e00c4052dac1d59a1188b2aa9d5a87113aaf1122"
+    },
+    {
+        "name": "Vanilla 1.18.2",
+        "version": "1.18.2",
+        "md5": "c8f83c5655308435b3dcf03c06d9fe8740a77469"
+    },
+    {
+        "name": "Vanilla 1.18.1",
+        "version": "1.18.1",
+        "md5": "125e5adf40c659fd3bce3e66e67a16bb49ecc1b9"
+    },
+    {
+        "name": "Vanilla 1.18",
+        "version": "1.18",
+        "md5": "3cf24a8694aca6267883b17d934efacc5e44440d"
+    },
+    {
+        "name": "Vanilla 1.17.1",
+        "version": "1.17.1",
+        "md5": "a16d67e5807f57fc4e550299cf20226194497dc2"
+    },
+    {
+        "name": "Vanilla 1.17",
+        "version": "1.17",
+        "md5": "0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e"
+    },
+    {
+        "name": "Vanilla 1.16.5",
+        "version": "1.16.5",
+        "md5": "1b557e7b033b583cd9f66746b7a9ab1ec1673ced"
+    },
+    {
+        "name": "Vanilla 1.16.4",
+        "version": "1.16.4",
+        "md5": "35139deedbd5182953cf1caa23835da59ca3d7cd"
+    },
+    {
+        "name": "Vanilla 1.16.3",
+        "version": "1.16.3",
+        "md5": "f02f4473dbf152c23d7d484952121db0b36698cb"
+    },
+    {
+        "name": "Vanilla 1.16.2",
+        "version": "1.16.2",
+        "md5": "c5f6fb23c3876461d46ec380421e42b289789530"
+    },
+    {
+        "name": "Vanilla 1.16.1",
+        "version": "1.16.1",
+        "md5": "a412fd69db1f81db3f511c1463fd304675244077"
+    },
+    {
+        "name": "Vanilla 1.16",
+        "version": "1.16",
+        "md5": "a0d03225615ba897619220e256a266cb33a44b6b"
+    },
+    {
+        "name": "Vanilla 1.15.2",
+        "version": "1.15.2",
+        "md5": "bb2b6b1aefcd70dfd1892149ac3a215f6c636b07"
+    },
+    {
+        "name": "Vanilla 1.15.1",
+        "version": "1.15.1",
+        "md5": "4d1826eebac84847c71a77f9349cc22afd0cf0a1"
+    },
+    {
+        "name": "Vanilla 1.15",
+        "version": "1.15",
+        "md5": "e9f105b3c5c7e85c7b445249a93362a22f62442d"
+    },
+    {
+        "name": "Vanilla 1.14.4",
+        "version": "1.14.4",
+        "md5": "3dc3d84a581f14691199cf6831b71ed1296a9fdf"
+    },
+    {
+        "name": "Vanilla 1.14.3",
+        "version": "1.14.3",
+        "md5": "d0d0fe2b1dc6ab4c65554cb734270872b72dadd6"
+    },
+    {
+        "name": "Vanilla 1.14.2",
+        "version": "1.14.2",
+        "md5": "808be3869e2ca6b62378f9f4b33c946621620019"
+    },
+    {
+        "name": "Vanilla 1.14.1",
+        "version": "1.14.1",
+        "md5": "ed76d597a44c5266be2a7fcd77a8270f1f0bc118"
+    },
+    {
+        "name": "Vanilla 1.14",
+        "version": "1.14",
+        "md5": "f1a0073671057f01aa843443fef34330281333ce"
+    },
+    {
+        "name": "Vanilla 1.13.2",
+        "version": "1.13.2",
+        "md5": "3737db93722a9e39eeada7c27e7aca28b144ffa7"
+    },
+    {
+        "name": "Vanilla 1.13.1",
+        "version": "1.13.1",
+        "md5": "fe123682e9cb30031eae351764f653500b7396c9"
+    },
+    {
+        "name": "Vanilla 1.13",
+        "version": "1.13",
+        "md5": "d0caafb8438ebd206f99930cfaecfa6c9a13dca0"
+    },
+    {
+        "name": "Vanilla 1.12.2",
+        "version": "1.12.2",
+        "md5": "886945bfb2b978778c3a0288fd7fab09d315b25f"
+    },
+    {
+        "name": "Vanilla 1.12.1",
+        "version": "1.12.1",
+        "md5": "561c7b2d54bae80cc06b05d950633a9ac95da816"
+    },
+    {
+        "name": "Vanilla 1.12",
+        "version": "1.12",
+        "md5": "8494e844e911ea0d63878f64da9dcc21f53a3463"
+    },
+    {
+        "name": "Vanilla 1.11.2",
+        "version": "1.11.2",
+        "md5": "f00c294a1576e03fddcac777c3cf4c7d404c4ba4"
+    },
+    {
+        "name": "Vanilla 1.11.1",
+        "version": "1.11.1",
+        "md5": "1f97bd101e508d7b52b3d6a7879223b000b5eba0"
+    },
+    {
+        "name": "Vanilla 1.11",
+        "version": "1.11",
+        "md5": "48820c84cb1ed502cb5b2fe23b8153d5e4fa61c0"
+    },
+    {
+        "name": "Vanilla 1.10.2",
+        "version": "1.10.2",
+        "md5": "3d501b23df53c548254f5e3f66492d178a48db63"
+    },
+    {
+        "name": "Vanilla 1.10.1",
+        "version": "1.10.1",
+        "md5": "cb4c6f9f51a845b09a8861cdbe0eea3ff6996dee"
+    },
+    {
+        "name": "Vanilla 1.10",
+        "version": "1.10",
+        "md5": "a96617ffdf5dabbb718ab11a9a68e50545fc5bee"
+    },
+    {
+        "name": "Vanilla 1.9.4",
+        "version": "1.9.4",
+        "md5": "edbb7b1758af33d365bf835eb9d13de005b1e274"
+    },
+    {
+        "name": "Vanilla 1.9.3",
+        "version": "1.9.3",
+        "md5": "8e897b6b6d784f745332644f4d104f7a6e737ccf"
+    },
+    {
+        "name": "Vanilla 1.9.2",
+        "version": "1.9.2",
+        "md5": "2b95cc7b136017e064c46d04a5825fe4cfa1be30"
+    },
+    {
+        "name": "Vanilla 1.9.1",
+        "version": "1.9.1",
+        "md5": "bf95d9118d9b4b827f524c878efd275125b56181"
+    },
+    {
+        "name": "Vanilla 1.9",
+        "version": "1.9",
+        "md5": "b4d449cf2918e0f3bd8aa18954b916a4d1880f0d"
+    },
+    {
+        "name": "Vanilla 1.8.9",
+        "version": "1.8.9",
+        "md5": "b58b2ceb36e01bcd8dbf49c8fb66c55a9f0676cd"
+    },
+    {
+        "name": "Vanilla 1.8.8",
+        "version": "1.8.8",
+        "md5": "5fafba3f58c40dc51b5c3ca72a98f62dfdae1db7"
+    },
+    {
+        "name": "Vanilla 1.8.7",
+        "version": "1.8.7",
+        "md5": "35c59e16d1f3b751cd20b76b9b8a19045de363a9"
+    },
+    {
+        "name": "Vanilla 1.8.6",
+        "version": "1.8.6",
+        "md5": "2bd44b53198f143fb278f8bec3a505dad0beacd2"
+    },
+    {
+        "name": "Vanilla 1.8.5",
+        "version": "1.8.5",
+        "md5": "ea6dd23658b167dbc0877015d1072cac21ab6eee"
+    },
+    {
+        "name": "Vanilla 1.8.4",
+        "version": "1.8.4",
+        "md5": "dd4b5eba1c79500390e0b0f45162fa70d38f8a3d"
+    },
+    {
+        "name": "Vanilla 1.8.3",
+        "version": "1.8.3",
+        "md5": "163ba351cb86f6390450bb2a67fafeb92b6c0f2f"
+    },
+    {
+        "name": "Vanilla 1.8.2",
+        "version": "1.8.2",
+        "md5": "a37bdd5210137354ed1bfe3dac0a5b77fe08fe2e"
+    },
+    {
+        "name": "Vanilla 1.8.1",
+        "version": "1.8.1",
+        "md5": "68bfb524888f7c0ab939025e07e5de08843dac0f"
+    },
+    {
+        "name": "Vanilla 1.8",
+        "version": "1.8",
+        "md5": "a028f00e678ee5c6aef0e29656dca091b5df11c7"
+    },
+    {
+        "name": "Vanilla 1.7.10",
+        "version": "1.7.10",
+        "md5": "952438ac4e01b4d115c5fc38f891710c4941df29"
+    },
+    {
+        "name": "Vanilla 1.7.9",
+        "version": "1.7.9",
+        "md5": "4cec86a928ec171fdc0c6b40de2de102f21601b5"
+    },
+    {
+        "name": "Vanilla 1.7.8",
+        "version": "1.7.8",
+        "md5": "c69ebfb84c2577661770371c4accdd5f87b8b21d"
+    },
+    {
+        "name": "Vanilla 1.7.7",
+        "version": "1.7.7",
+        "md5": "a6ffc1624da980986c6cc12a1ddc79ab1b025c62"
+    },
+    {
+        "name": "Vanilla 1.7.6",
+        "version": "1.7.6",
+        "md5": "41ea7757d4d7f74b95fc1ac20f919a8e521e910c"
+    },
+    {
+        "name": "Vanilla 1.7.5",
+        "version": "1.7.5",
+        "md5": "e1d557b2e31ea881404e41b05ec15c810415e060"
+    },
+    {
+        "name": "Vanilla 1.7.4",
+        "version": "1.7.4",
+        "md5": "61220311cef80aecc4cd8afecd5f18ca6b9461ff"
+    },
+    {
+        "name": "Vanilla 1.7.3",
+        "version": "1.7.3",
+        "md5": "707857a7bc7bf54fe60d557cca71004c34aa07bb"
+    },
+    {
+        "name": "Vanilla 1.7.2",
+        "version": "1.7.2",
+        "md5": "3716cac82982e7c2eb09f83028b555e9ea606002"
+    },
+    {
+        "name": "Vanilla 1.6.4",
+        "version": "1.6.4",
+        "md5": "050f93c1f3fe9e2052398f7bd6aca10c63d64a87"
+    },
+    {
+        "name": "Vanilla 1.6.2",
+        "version": "1.6.2",
+        "md5": "01b6ea555c6978e6713e2a2dfd7fe19b1449ca54"
+    },
+    {
+        "name": "Vanilla 1.6.1",
+        "version": "1.6.1",
+        "md5": "0252918a5f9d47e3c6eb1dfec02134d1374a89b4"
+    },
+    {
+        "name": "Vanilla 1.5.2",
+        "version": "1.5.2",
+        "md5": "f9ae3f651319151ce99a0bfad6b34fa16eb6775f"
+    },
+    {
+        "name": "Vanilla 1.5.1",
+        "version": "1.5.1",
+        "md5": "d07c71ee2767dabb79fb32dad8162e1b854d5324"
+    },
+    {
+        "name": "Vanilla 1.4.7",
+        "version": "1.4.7",
+        "md5": "2f0ec8efddd2f2c674c77be9ddb370b727dec676"
+    },
+    {
+        "name": "Vanilla 1.4.5",
+        "version": "1.4.5",
+        "md5": "c12fd88a8233d2c517dbc8196ba2ae855f4d36ea"
+    },
+    {
+        "name": "Vanilla 1.4.6",
+        "version": "1.4.6",
+        "md5": "a0aeb5709af5f2c3058c1cf0dc6b110a7a61278c"
+    },
+    {
+        "name": "Vanilla 1.4.4",
+        "version": "1.4.4",
+        "md5": "4215dcadb706508bf9d6d64209a0080b9cee9e71"
+    },
+    {
+        "name": "Vanilla 1.4.2",
+        "version": "1.4.2",
+        "md5": "5be700523a729bb78ef99206fb480a63dcd09825"
+    },
+    {
+        "name": "Vanilla 1.3.2",
+        "version": "1.3.2",
+        "md5": "3de2ae6c488135596e073a9589842800c9f53bfe"
+    },
+    {
+        "name": "Vanilla 1.3.1",
+        "version": "1.3.1",
+        "md5": "82563ce498bfc1fc8a2cb5bf236f7da86a390646"
+    },
+    {
+        "name": "Vanilla 1.2.5",
+        "version": "1.2.5",
+        "md5": "d8321edc9470e56b8ad5c67bbd16beba25843336"
+    }
+]

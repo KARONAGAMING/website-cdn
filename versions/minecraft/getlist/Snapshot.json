@@ -1,0 +1,3197 @@
+[
+    {
+        "name": "Snapshot 1.21.4-rc3",
+        "version": "1.21.4-rc3",
+        "md5": "653cd548ed5bb2a2bff08945878347f3a3b8844b"
+    },
+    {
+        "name": "Snapshot 1.21.4-rc2",
+        "version": "1.21.4-rc2",
+        "md5": "894027b3be403fc387c289781f9fdaca0cdc1aef"
+    },
+    {
+        "name": "Snapshot 1.21.4-rc1",
+        "version": "1.21.4-rc1",
+        "md5": "58f4bdb6af6053819d5483deba9e84194e6e2aae"
+    },
+    {
+        "name": "Snapshot 1.21.4-pre3",
+        "version": "1.21.4-pre3",
+        "md5": "b4452bf086905750376d2014c3b1063aca14320f"
+    },
+    {
+        "name": "Snapshot 1.21.4-pre2",
+        "version": "1.21.4-pre2",
+        "md5": "0d53352b9a13a05b8c314c93418347b6ef38cc52"
+    },
+    {
+        "name": "Snapshot 1.21.4-pre1",
+        "version": "1.21.4-pre1",
+        "md5": "4e5fdbf4ecd53962e72a75d4abfc2455e0ae0c1b"
+    },
+    {
+        "name": "Snapshot 24w46a",
+        "version": "24w46a",
+        "md5": "9b2e96ae27afaf9a6c682c5d92d37a99da4a8d1a"
+    },
+    {
+        "name": "Snapshot 24w45a",
+        "version": "24w45a",
+        "md5": "8bbe822806cfdbeb9f6fc55d18fa1e8080e60047"
+    },
+    {
+        "name": "Snapshot 24w44a",
+        "version": "24w44a",
+        "md5": "5d233307681e1b46dfd4fba4f022c1cac2b58e60"
+    },
+    {
+        "name": "Snapshot 1.21.2-rc2",
+        "version": "1.21.2-rc2",
+        "md5": "d0601b3f493bb5b4e421ef35b676d4cb9c1f606f"
+    },
+    {
+        "name": "Snapshot 1.21.2-rc1",
+        "version": "1.21.2-rc1",
+        "md5": "8db23b5e87d998956ac5b9a5d94d1b4db4b9ea44"
+    },
+    {
+        "name": "Snapshot 1.21.2-pre5",
+        "version": "1.21.2-pre5",
+        "md5": "c3294c5538c63aaa744313c8b98276bb26490a85"
+    },
+    {
+        "name": "Snapshot 1.21.2-pre4",
+        "version": "1.21.2-pre4",
+        "md5": "aed86bb19e8fb39147c9a4534ab5e2b94fa569ea"
+    },
+    {
+        "name": "Snapshot 1.21.2-pre3",
+        "version": "1.21.2-pre3",
+        "md5": "8d2de8704771e210d69e7b7ac70d858a677bcb70"
+    },
+    {
+        "name": "Snapshot 1.21.2-pre2",
+        "version": "1.21.2-pre2",
+        "md5": "eddbd98f45ec134898b9a7657f4e3b679692dc45"
+    },
+    {
+        "name": "Snapshot 1.21.2-pre1",
+        "version": "1.21.2-pre1",
+        "md5": "7e6e5da8bb024227ffa0d24cfa3181e6a772bb76"
+    },
+    {
+        "name": "Snapshot 24w40a",
+        "version": "24w40a",
+        "md5": "2e2e224520156be9bc7c76be8158af9825d873d9"
+    },
+    {
+        "name": "Snapshot 24w39a",
+        "version": "24w39a",
+        "md5": "31bc8a4f3c73e3873f4a0d42e7c65a7ae43cc44a"
+    },
+    {
+        "name": "Snapshot 24w38a",
+        "version": "24w38a",
+        "md5": "b87bfc3763d88a1364b8ac30fe6f2ac3550948f8"
+    },
+    {
+        "name": "Snapshot 24w37a",
+        "version": "24w37a",
+        "md5": "4ba5f8917ac400474751b6e0f20d311d3b726fe7"
+    },
+    {
+        "name": "Snapshot 24w36a",
+        "version": "24w36a",
+        "md5": "30663a50aaf407751ae9e704758364ed9433206d"
+    },
+    {
+        "name": "Snapshot 24w35a",
+        "version": "24w35a",
+        "md5": "93d259fdba93aa7d3c1763cfb0136295087e0de3"
+    },
+    {
+        "name": "Snapshot 24w34a",
+        "version": "24w34a",
+        "md5": "ff16e26392a5ced7cfe52ffdc5461cd646b9b65d"
+    },
+    {
+        "name": "Snapshot 24w33a",
+        "version": "24w33a",
+        "md5": "90f9c80aeef3966343e661a1487b7918c90ae61d"
+    },
+    {
+        "name": "Snapshot 1.21.1-rc1",
+        "version": "1.21.1-rc1",
+        "md5": "e56720aba46f7f07238c4c054a160fc942da9f78"
+    },
+    {
+        "name": "Snapshot 1.21-rc1",
+        "version": "1.21-rc1",
+        "md5": "902101d2fb0f968b9c0ddb8b8cff9afef23f72c7"
+    },
+    {
+        "name": "Snapshot 1.21-pre4",
+        "version": "1.21-pre4",
+        "md5": "14b1a86d9fcfc82c013e82910e8209617c3a721e"
+    },
+    {
+        "name": "Snapshot 1.21-pre3",
+        "version": "1.21-pre3",
+        "md5": "96266e18a95faa1c785ac852315e886d0e8bb174"
+    },
+    {
+        "name": "Snapshot 1.21-pre2",
+        "version": "1.21-pre2",
+        "md5": "3a8da3a1afcfb09d701fa17e405d09cd0c635748"
+    },
+    {
+        "name": "Snapshot 1.21-pre1",
+        "version": "1.21-pre1",
+        "md5": "57e59ee5d8bc6ce664a7d76de45f8df9c110381f"
+    },
+    {
+        "name": "Snapshot 24w21b",
+        "version": "24w21b",
+        "md5": "743d74805b64f83052fe449993f42182f76b129e"
+    },
+    {
+        "name": "Snapshot 24w21a",
+        "version": "24w21a",
+        "md5": "6ba7192e60bedb3ff02db3c57b75f7ea56c63242"
+    },
+    {
+        "name": "Snapshot 24w20a",
+        "version": "24w20a",
+        "md5": "e3b1bcc2d7a09b6f1acfef7090ee64409feb3b94"
+    },
+    {
+        "name": "Snapshot 24w19b",
+        "version": "24w19b",
+        "md5": "447bfe84875399d44d383de7f534e1cc10bae9a5"
+    },
+    {
+        "name": "Snapshot 24w19a",
+        "version": "24w19a",
+        "md5": "8088cca48fece804d29b368ab5bbcc27a540456c"
+    },
+    {
+        "name": "Snapshot 24w18a",
+        "version": "24w18a",
+        "md5": "22618c686c86be630601e5d9fcf581674105c899"
+    },
+    {
+        "name": "Snapshot 1.20.6-rc1",
+        "version": "1.20.6-rc1",
+        "md5": "a9b9c22721ec3ac516627f30554f21ed7c23efe5"
+    },
+    {
+        "name": "Snapshot 1.20.5-rc3",
+        "version": "1.20.5-rc3",
+        "md5": "7d735a8eda6797ed196141b76e96b46546bde091"
+    },
+    {
+        "name": "Snapshot 1.20.5-rc2",
+        "version": "1.20.5-rc2",
+        "md5": "921814646156d838286dc0634a0031f042c6e0d2"
+    },
+    {
+        "name": "Snapshot 1.20.5-rc1",
+        "version": "1.20.5-rc1",
+        "md5": "ec45f58d589dc1b00b25c6798dd10d2af70867e5"
+    },
+    {
+        "name": "Snapshot 1.20.5-pre4",
+        "version": "1.20.5-pre4",
+        "md5": "2793397cf42243a69fca37ff0887e8560a36c583"
+    },
+    {
+        "name": "Snapshot 1.20.5-pre3",
+        "version": "1.20.5-pre3",
+        "md5": "5ac067ccc569ef9e2177cf4331c8e82d3e072692"
+    },
+    {
+        "name": "Snapshot 1.20.5-pre2",
+        "version": "1.20.5-pre2",
+        "md5": "c794b404663758cba43c67d097a25c5d4eb84a37"
+    },
+    {
+        "name": "Snapshot 1.20.5-pre1",
+        "version": "1.20.5-pre1",
+        "md5": "018c4aa3b1dcd5ac4487456de062072de750f729"
+    },
+    {
+        "name": "Snapshot 24w14a",
+        "version": "24w14a",
+        "md5": "960cb0e5c794b02abdbcdbdc15b4de058b222118"
+    },
+    {
+        "name": "Snapshot 24w14potato",
+        "version": "24w14potato",
+        "md5": "2d29eee4f5a71f323d20b36d623e2ec21dab74f7"
+    },
+    {
+        "name": "Snapshot 24w13a",
+        "version": "24w13a",
+        "md5": "2fd2113b7b81cc78cb4a76939a6c11840d57036d"
+    },
+    {
+        "name": "Snapshot 24w12a",
+        "version": "24w12a",
+        "md5": "6f036460d361ce1e645bba365a72be2eed35ec01"
+    },
+    {
+        "name": "Snapshot 24w11a",
+        "version": "24w11a",
+        "md5": "00cab0438130dc3e6ae91f53387bb96ae7986d31"
+    },
+    {
+        "name": "Snapshot 24w10a",
+        "version": "24w10a",
+        "md5": "9f8e96ebe4db0323653111b28df63f66395cb19d"
+    },
+    {
+        "name": "Snapshot 24w09a",
+        "version": "24w09a",
+        "md5": "7c70922198a2d18e0252c315b55623b822b4e910"
+    },
+    {
+        "name": "Snapshot 24w07a",
+        "version": "24w07a",
+        "md5": "94acd52e9b9392e21a06231bdc4f8f0cd6ccb2af"
+    },
+    {
+        "name": "Snapshot 24w06a",
+        "version": "24w06a",
+        "md5": "703cffc390ff71b7900d7a4356f48bc2108b448e"
+    },
+    {
+        "name": "Snapshot 24w05b",
+        "version": "24w05b",
+        "md5": "189526bf25c06f7c0071aa637bc5f3668a6457d4"
+    },
+    {
+        "name": "Snapshot 24w05a",
+        "version": "24w05a",
+        "md5": "cc0f01e6406fa8a2b50c3c06edef74e7a7bf74de"
+    },
+    {
+        "name": "Snapshot 24w04a",
+        "version": "24w04a",
+        "md5": "d9f13751240a2fe4e85be1c839d9a4de1413c251"
+    },
+    {
+        "name": "Snapshot 24w03b",
+        "version": "24w03b",
+        "md5": "5b9a529dc40d8394cbd6203a8ebe66c8e2f86fd4"
+    },
+    {
+        "name": "Snapshot 24w03a",
+        "version": "24w03a",
+        "md5": "730a3ef2f99f6a822aa504bfee2eb5372d826293"
+    },
+    {
+        "name": "Snapshot 23w51b",
+        "version": "23w51b",
+        "md5": "d443ec98f3f3ee2dc92e0788d6d83d74844feb4f"
+    },
+    {
+        "name": "Snapshot 23w51a",
+        "version": "23w51a",
+        "md5": "e44e1d8c34f3020b0485ddd1436e91134b7de9a3"
+    },
+    {
+        "name": "Snapshot 1.20.4-rc1",
+        "version": "1.20.4-rc1",
+        "md5": "589a0babd82ff5a086e4085aa8a1dc46fecc222d"
+    },
+    {
+        "name": "Snapshot 1.20.3-rc1",
+        "version": "1.20.3-rc1",
+        "md5": "64cab4e87f8c2cad74d8bfc23df2cd193b4a615e"
+    },
+    {
+        "name": "Snapshot 1.20.3-pre4",
+        "version": "1.20.3-pre4",
+        "md5": "1567e8a24c547ac3a95ce41d24024a94e9c7299c"
+    },
+    {
+        "name": "Snapshot 1.20.3-pre3",
+        "version": "1.20.3-pre3",
+        "md5": "3802cf61288841f29f0af0d7c73ab58094be34cd"
+    },
+    {
+        "name": "Snapshot 1.20.3-pre2",
+        "version": "1.20.3-pre2",
+        "md5": "5a76da0ae88eee28ab4c0fa2ffabb837a4572398"
+    },
+    {
+        "name": "Snapshot 1.20.3-pre1",
+        "version": "1.20.3-pre1",
+        "md5": "e5db7e4884f55c4dd986ca7200145759169e0045"
+    },
+    {
+        "name": "Snapshot 23w46a",
+        "version": "23w46a",
+        "md5": "2f30bbf9229e2dcbaf148eb9750df1d19ffa6d19"
+    },
+    {
+        "name": "Snapshot 23w45a",
+        "version": "23w45a",
+        "md5": "9c2b37701bf77ae22df4c32fd6dd1614049ce994"
+    },
+    {
+        "name": "Snapshot 23w44a",
+        "version": "23w44a",
+        "md5": "009b4831cdda78d8f9b235265e45d0bf14a920da"
+    },
+    {
+        "name": "Snapshot 23w43b",
+        "version": "23w43b",
+        "md5": "e7f9a4ca5ad3cadee399aa90f1d37f3ee94f292c"
+    },
+    {
+        "name": "Snapshot 23w43a",
+        "version": "23w43a",
+        "md5": "135f89e56c2d83d9ef0f7915f0cdf1047737d51a"
+    },
+    {
+        "name": "Snapshot 23w42a",
+        "version": "23w42a",
+        "md5": "b5f423ba1c4191d133c0284a2b1b36da46f8b5f8"
+    },
+    {
+        "name": "Snapshot 23w41a",
+        "version": "23w41a",
+        "md5": "e3e4c46324ac42b1789f7ff6e895ae3c843a9819"
+    },
+    {
+        "name": "Snapshot 23w40a",
+        "version": "23w40a",
+        "md5": "0f51a81705f4694b92f5273ffa2c52c45f27b7f8"
+    },
+    {
+        "name": "Snapshot 1.20.2-rc2",
+        "version": "1.20.2-rc2",
+        "md5": "ef01ddc7ee3fd517f55f34259c411323673b6347"
+    },
+    {
+        "name": "Snapshot 1.20.2-rc1",
+        "version": "1.20.2-rc1",
+        "md5": "70dad7e61afc2e255e73842760ef9461a00c852d"
+    },
+    {
+        "name": "Snapshot 1.20.2-pre4",
+        "version": "1.20.2-pre4",
+        "md5": "9f1b8f9918d5d8d59781886f33e5b7b2053d0486"
+    },
+    {
+        "name": "Snapshot 1.20.2-pre3",
+        "version": "1.20.2-pre3",
+        "md5": "3d2eecdda5f6c7260d73aa5c2e5ce1a42e0f24e4"
+    },
+    {
+        "name": "Snapshot 1.20.2-pre2",
+        "version": "1.20.2-pre2",
+        "md5": "cf5d9b2461898afd589274349989be704084a8dd"
+    },
+    {
+        "name": "Snapshot 1.20.2-pre1",
+        "version": "1.20.2-pre1",
+        "md5": "7fa1c9c59238ee98696da880d361d96c728dd9ea"
+    },
+    {
+        "name": "Snapshot 23w35a",
+        "version": "23w35a",
+        "md5": "6a2ac9eecb377f4894b84de711973edc751d0607"
+    },
+    {
+        "name": "Snapshot 23w33a",
+        "version": "23w33a",
+        "md5": "0254dde460b23861840cff6e80fc7fdbbccad88e"
+    },
+    {
+        "name": "Snapshot 23w32a",
+        "version": "23w32a",
+        "md5": "bfe1a408d8d809b206369fceab0e8a883226d0a6"
+    },
+    {
+        "name": "Snapshot 23w31a",
+        "version": "23w31a",
+        "md5": "11ef2ae139b0badda80a1ea07c2dd0cf9034a32f"
+    },
+    {
+        "name": "Snapshot 1.20.1-rc1",
+        "version": "1.20.1-rc1",
+        "md5": "6890ac51068a05e3fcc4158478247e5a5e47bcac"
+    },
+    {
+        "name": "Snapshot 1.20-rc1",
+        "version": "1.20-rc1",
+        "md5": "0d9315f92842e35fcb6fddb10db3a13675a1ad04"
+    },
+    {
+        "name": "Snapshot 1.20-pre7",
+        "version": "1.20-pre7",
+        "md5": "ed6ddd61aeb1f529ef626fae9bcb0a5f51491f71"
+    },
+    {
+        "name": "Snapshot 1.20-pre6",
+        "version": "1.20-pre6",
+        "md5": "c737b7411fc0b60426a9feca83d09d63f4a86f27"
+    },
+    {
+        "name": "Snapshot 1.20-pre5",
+        "version": "1.20-pre5",
+        "md5": "2b41aed1e7c7fecf11ca15bad03b0fa95eb4fbd9"
+    },
+    {
+        "name": "Snapshot 1.20-pre4",
+        "version": "1.20-pre4",
+        "md5": "04b889e29aeffc23d2a3ebdd7e728184d9441e02"
+    },
+    {
+        "name": "Snapshot 1.20-pre3",
+        "version": "1.20-pre3",
+        "md5": "6adffc7f05724f22b1644ecc191899e4beb33443"
+    },
+    {
+        "name": "Snapshot 1.20-pre2",
+        "version": "1.20-pre2",
+        "md5": "fce02f0ed50b4722f8ec58acef06275b91cde08d"
+    },
+    {
+        "name": "Snapshot 1.20-pre1",
+        "version": "1.20-pre1",
+        "md5": "95ac4bf3d2f4ae57687493f5232d3f58334b85d2"
+    },
+    {
+        "name": "Snapshot 23w18a",
+        "version": "23w18a",
+        "md5": "240177c763b6009ea81aaf0ef14a73822320856d"
+    },
+    {
+        "name": "Snapshot 23w17a",
+        "version": "23w17a",
+        "md5": "96e1b9db0f3d90309db34e8ce4fd39b52f6ddaa0"
+    },
+    {
+        "name": "Snapshot 23w16a",
+        "version": "23w16a",
+        "md5": "4a8487f877eb4f3506978fb85faf41a08b570398"
+    },
+    {
+        "name": "Snapshot 23w14a",
+        "version": "23w14a",
+        "md5": "cb67d34c44013759bca77085ae42e3a7b37f265d"
+    },
+    {
+        "name": "Snapshot 23w13a_or_b",
+        "version": "23w13a_or_b",
+        "md5": "6241fc14ce7a659f371683a72aa24c155f60cce1"
+    },
+    {
+        "name": "Snapshot 23w13a",
+        "version": "23w13a",
+        "md5": "701767d4d07aad992e3e2875ae5d1485cebf66e0"
+    },
+    {
+        "name": "Snapshot 23w12a",
+        "version": "23w12a",
+        "md5": "92fdef90109e534d47e378124ab86e2d6d7b3a42"
+    },
+    {
+        "name": "Snapshot 1.19.4-rc3",
+        "version": "1.19.4-rc3",
+        "md5": "905778cc578c5a1757a9358a3feb5c19a0178fec"
+    },
+    {
+        "name": "Snapshot 1.19.4-rc2",
+        "version": "1.19.4-rc2",
+        "md5": "8abd7d9568385ade54cdd8bf77306e637482711b"
+    },
+    {
+        "name": "Snapshot 1.19.4-rc1",
+        "version": "1.19.4-rc1",
+        "md5": "c41c9653dc18634f52c010040177deabf9a878f2"
+    },
+    {
+        "name": "Snapshot 1.19.4-pre4",
+        "version": "1.19.4-pre4",
+        "md5": "711aa1f63c20650789e9740d66ff55c3e8e4f2ae"
+    },
+    {
+        "name": "Snapshot 1.19.4-pre3",
+        "version": "1.19.4-pre3",
+        "md5": "cedc29f7e4927bfe58c96e67495a73c7333c75cd"
+    },
+    {
+        "name": "Snapshot 1.19.4-pre2",
+        "version": "1.19.4-pre2",
+        "md5": "d0b48d637834e879c16de26ffc11226d2d8e6772"
+    },
+    {
+        "name": "Snapshot 1.19.4-pre1",
+        "version": "1.19.4-pre1",
+        "md5": "0bc471b96bb0edbc2f03e6cdc3ad981f7a4f5f8a"
+    },
+    {
+        "name": "Snapshot 23w07a",
+        "version": "23w07a",
+        "md5": "b919e6e1683a4b6f37f2717c7841e88e306bdc94"
+    },
+    {
+        "name": "Snapshot 23w06a",
+        "version": "23w06a",
+        "md5": "daaed1fac98d17bd76f8fd43268f1c1b97230b59"
+    },
+    {
+        "name": "Snapshot 23w05a",
+        "version": "23w05a",
+        "md5": "98cfa3f8f9aef61e1298c9cfd62f6eeaf8abe206"
+    },
+    {
+        "name": "Snapshot 23w04a",
+        "version": "23w04a",
+        "md5": "2f31a8584ec1e70abd2d8b22d976feb52a6a3e31"
+    },
+    {
+        "name": "Snapshot 23w03a",
+        "version": "23w03a",
+        "md5": "b033d57035b293a9eda548db0615c1c89c21ea28"
+    },
+    {
+        "name": "Snapshot 1.19.3-rc3",
+        "version": "1.19.3-rc3",
+        "md5": "5f459ba58558d797229c819c0314bec84e774ecb"
+    },
+    {
+        "name": "Snapshot 1.19.3-rc2",
+        "version": "1.19.3-rc2",
+        "md5": "138c813e22102e1a82a1be7b76080f40235183fe"
+    },
+    {
+        "name": "Snapshot 1.19.3-rc1",
+        "version": "1.19.3-rc1",
+        "md5": "0c713920eff7358cb01c56979e8d732943bb893b"
+    },
+    {
+        "name": "Snapshot 1.19.3-pre3",
+        "version": "1.19.3-pre3",
+        "md5": "323175facb90c05b07dff84b4cff39fd9cab138a"
+    },
+    {
+        "name": "Snapshot 1.19.3-pre2",
+        "version": "1.19.3-pre2",
+        "md5": "f8a18aa1e7b658de909470f69553c53d8662dfbe"
+    },
+    {
+        "name": "Snapshot 1.19.3-pre1",
+        "version": "1.19.3-pre1",
+        "md5": "046fee78cd174105cb9b958a8459c0405ab19959"
+    },
+    {
+        "name": "Snapshot 22w46a",
+        "version": "22w46a",
+        "md5": "302ae4acba96e733fdbe144ebe2ba575b2bbf969"
+    },
+    {
+        "name": "Snapshot 22w45a",
+        "version": "22w45a",
+        "md5": "d98f05500b14a8884b85e71be9fa1ef0d261029a"
+    },
+    {
+        "name": "Snapshot 22w44a",
+        "version": "22w44a",
+        "md5": "ed050b461b7dd347f383176ef03a71bacb844e69"
+    },
+    {
+        "name": "Snapshot 22w43a",
+        "version": "22w43a",
+        "md5": "6718a5ac0b073644dbdfbd25f8218c68a1b390db"
+    },
+    {
+        "name": "Snapshot 22w42a",
+        "version": "22w42a",
+        "md5": "008996e2d1e0d49d7f1b477f69106a6d23c5c103"
+    },
+    {
+        "name": "Snapshot 1.19.2-rc2",
+        "version": "1.19.2-rc2",
+        "md5": "93649d39350077f998296138964e4591d4571140"
+    },
+    {
+        "name": "Snapshot 1.19.2-rc1",
+        "version": "1.19.2-rc1",
+        "md5": "ba8a776dc31a6093a07d3f4fbad1a8d680f8faf3"
+    },
+    {
+        "name": "Snapshot 1.19.1-rc3",
+        "version": "1.19.1-rc3",
+        "md5": "e7ff323e06ccb32083b7cd2472dce3b9056e2940"
+    },
+    {
+        "name": "Snapshot 1.19.1-rc2",
+        "version": "1.19.1-rc2",
+        "md5": "5ec09b2700e5e83380a23cb18e66cfdaa931640b"
+    },
+    {
+        "name": "Snapshot 1.19.1-pre6",
+        "version": "1.19.1-pre6",
+        "md5": "2cad39169c1a505ffca1049b236a4ddaf62c617d"
+    },
+    {
+        "name": "Snapshot 1.19.1-pre5",
+        "version": "1.19.1-pre5",
+        "md5": "33cdf9ceaaedebb0a71ca5f4d85d4e7198c09b8e"
+    },
+    {
+        "name": "Snapshot 1.19.1-pre4",
+        "version": "1.19.1-pre4",
+        "md5": "0f7f0c876024d0a84cb50547f72fe81dbfbfdb19"
+    },
+    {
+        "name": "Snapshot 1.19.1-pre3",
+        "version": "1.19.1-pre3",
+        "md5": "afbc14b0518843f189ed3ddd00f01b5881ef6513"
+    },
+    {
+        "name": "Snapshot 1.19.1-pre2",
+        "version": "1.19.1-pre2",
+        "md5": "17354c4963fb0176ad34595927ce62e55ea3daf4"
+    },
+    {
+        "name": "Snapshot 1.19.1-rc1",
+        "version": "1.19.1-rc1",
+        "md5": "71a6d4c634de517ab1b6c2db8b743cbc831d9794"
+    },
+    {
+        "name": "Snapshot 1.19.1-pre1",
+        "version": "1.19.1-pre1",
+        "md5": "a4d30a572176e81e115d36ec71bd2e67798ed14e"
+    },
+    {
+        "name": "Snapshot 22w24a",
+        "version": "22w24a",
+        "md5": "fdad42550c3f0bcdc52680dcebd5b712d32bc5d7"
+    },
+    {
+        "name": "Snapshot 1.19-rc2",
+        "version": "1.19-rc2",
+        "md5": "d3250b1e5e0e8762ec8ceae034d5f229965d00d3"
+    },
+    {
+        "name": "Snapshot 1.19-rc1",
+        "version": "1.19-rc1",
+        "md5": "76ebdba03954e5a2185fb7a1d3a25096eb6bd195"
+    },
+    {
+        "name": "Snapshot 1.19-pre5",
+        "version": "1.19-pre5",
+        "md5": "1ba1b6389f00fa40a10af047fd7a76a9c68dba72"
+    },
+    {
+        "name": "Snapshot 1.19-pre4",
+        "version": "1.19-pre4",
+        "md5": "a16331571233081eced58459a33254aa5a984a7d"
+    },
+    {
+        "name": "Snapshot 1.19-pre3",
+        "version": "1.19-pre3",
+        "md5": "0702387c3519cc23a5184893275d00c05abf056d"
+    },
+    {
+        "name": "Snapshot 1.19-pre2",
+        "version": "1.19-pre2",
+        "md5": "6cc6cac49cd862ad9005816eb1ffc7dd4bd066dd"
+    },
+    {
+        "name": "Snapshot 1.19-pre1",
+        "version": "1.19-pre1",
+        "md5": "1be90ec671e145e56b789de428b63ec43a2d9721"
+    },
+    {
+        "name": "Snapshot 22w19a",
+        "version": "22w19a",
+        "md5": "c354ac562b44fe5857535935125942ff89616cab"
+    },
+    {
+        "name": "Snapshot 22w18a",
+        "version": "22w18a",
+        "md5": "d3259a8939a724c78ebbb995dfc31c1c364464e3"
+    },
+    {
+        "name": "Snapshot 22w17a",
+        "version": "22w17a",
+        "md5": "9b4d5a87b48d7c3784fdfc9d6982543e8d9296df"
+    },
+    {
+        "name": "Snapshot 22w16b",
+        "version": "22w16b",
+        "md5": "a54810e8b1a7a043fa54a462309d680ad67da479"
+    },
+    {
+        "name": "Snapshot 22w16a",
+        "version": "22w16a",
+        "md5": "8ac6c67599bd30009fdc2f9d0174419b0bc19f8b"
+    },
+    {
+        "name": "Snapshot 22w15a",
+        "version": "22w15a",
+        "md5": "2760f745a00711bcc19bf78d6056019f69318d03"
+    },
+    {
+        "name": "Snapshot 22w14a",
+        "version": "22w14a",
+        "md5": "cf4f3a6492c0a84e2e852fe0ea714080923ab6ad"
+    },
+    {
+        "name": "Snapshot 22w13oneblockatatime",
+        "version": "22w13oneblockatatime",
+        "md5": "5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67"
+    },
+    {
+        "name": "Snapshot 22w13a",
+        "version": "22w13a",
+        "md5": "7c8afca77bb9a73d31cdc70f2f68b4119d581455"
+    },
+    {
+        "name": "Snapshot 22w12a",
+        "version": "22w12a",
+        "md5": "f238cf129a0848effe5037d8aaefe3f1f350b689"
+    },
+    {
+        "name": "Snapshot 22w11a",
+        "version": "22w11a",
+        "md5": "a13b9678c60b0a84767e6cef0086c65cadac036e"
+    },
+    {
+        "name": "Snapshot 1.18.2-rc1",
+        "version": "1.18.2-rc1",
+        "md5": "2f52c69c90d63c024548ae5c5438ff3156ece6c2"
+    },
+    {
+        "name": "Snapshot 1.18.2-pre3",
+        "version": "1.18.2-pre3",
+        "md5": "1c898afff0449eed08ad8036aaa4c652952035de"
+    },
+    {
+        "name": "Snapshot 1.18.2-pre2",
+        "version": "1.18.2-pre2",
+        "md5": "888cb380db39a115cfe978c00922d24536bdd2a5"
+    },
+    {
+        "name": "Snapshot 1.18.2-pre1",
+        "version": "1.18.2-pre1",
+        "md5": "c3e2734bafdb017efab854b01c66dd795722a332"
+    },
+    {
+        "name": "Snapshot 22w07a",
+        "version": "22w07a",
+        "md5": "8131d9e36640d40ce8464c58035f35475579e897"
+    },
+    {
+        "name": "Snapshot 22w06a",
+        "version": "22w06a",
+        "md5": "60c757a63f21877f8b053904ac76d04ff3cb76ef"
+    },
+    {
+        "name": "Snapshot 22w05a",
+        "version": "22w05a",
+        "md5": "e6183efda3cea1871cb090b37ec7e0305d6ebbde"
+    },
+    {
+        "name": "Snapshot 22w03a",
+        "version": "22w03a",
+        "md5": "686320be073916ae97b1ad78d22627809491dfc2"
+    },
+    {
+        "name": "Snapshot 1.18.1-rc3",
+        "version": "1.18.1-rc3",
+        "md5": "29c43f3af18e66f8368a16ec89f8e54ecda71d85"
+    },
+    {
+        "name": "Snapshot 1.18.1-rc2",
+        "version": "1.18.1-rc2",
+        "md5": "653c704a89fe6437b363cff32ded037d5c0f6ec0"
+    },
+    {
+        "name": "Snapshot 1.18.1-rc1",
+        "version": "1.18.1-rc1",
+        "md5": "fa98951fb1fa1ca04d8d6283e91e667d91e6410d"
+    },
+    {
+        "name": "Snapshot 1.18.1-pre1",
+        "version": "1.18.1-pre1",
+        "md5": "cd99e68b49c8a7db185d053518c6fb135cd04564"
+    },
+    {
+        "name": "Snapshot 1.18-rc4",
+        "version": "1.18-rc4",
+        "md5": "5889357fe058d867f6e27ee3f033286c430ec91e"
+    },
+    {
+        "name": "Snapshot 1.18-rc3",
+        "version": "1.18-rc3",
+        "md5": "9a03d2c4ec2c737ce9d17a43d3774cdc0ea21030"
+    },
+    {
+        "name": "Snapshot 1.18-rc2",
+        "version": "1.18-rc2",
+        "md5": "96162b8d0af608bee2febe602bdb46942e85f6d8"
+    },
+    {
+        "name": "Snapshot 1.18-rc1",
+        "version": "1.18-rc1",
+        "md5": "81a2baf05f8f5bda41fac1542e7cc9d937bff41b"
+    },
+    {
+        "name": "Snapshot 1.18-pre8",
+        "version": "1.18-pre8",
+        "md5": "051efe8853d00db6bef7f19324da25a465782376"
+    },
+    {
+        "name": "Snapshot 1.18-pre7",
+        "version": "1.18-pre7",
+        "md5": "fe08544bb92ebe53070ec4a5f161ac19d8e9e4bb"
+    },
+    {
+        "name": "Snapshot 1.18-pre6",
+        "version": "1.18-pre6",
+        "md5": "97b1c53df11cb8b973f4b522c8f4963b7e31495e"
+    },
+    {
+        "name": "Snapshot 1.18-pre5",
+        "version": "1.18-pre5",
+        "md5": "c29d03e9c6a21a3234a947e1025793c3cc40c13b"
+    },
+    {
+        "name": "Snapshot 1.18-pre4",
+        "version": "1.18-pre4",
+        "md5": "d17d3501f7f9d68793d5a505978ea5b87a208b43"
+    },
+    {
+        "name": "Snapshot 1.18-pre3",
+        "version": "1.18-pre3",
+        "md5": "146d1809368fef552274122d9c380423c38068ab"
+    },
+    {
+        "name": "Snapshot 1.18-pre2",
+        "version": "1.18-pre2",
+        "md5": "c203586f5d2c02b417f0e104b65a8e5e7625b2f8"
+    },
+    {
+        "name": "Snapshot 1.18-pre1",
+        "version": "1.18-pre1",
+        "md5": "1c01e11c62ef7ce9b91324b570a1252d07544f18"
+    },
+    {
+        "name": "Snapshot 21w44a",
+        "version": "21w44a",
+        "md5": "ae583fd57a8c07f2d6fbadce1ce1e1379bf4b32d"
+    },
+    {
+        "name": "Snapshot 21w43a",
+        "version": "21w43a",
+        "md5": "5c774a8b4e4407133eec7c4e1449c5f35974c589"
+    },
+    {
+        "name": "Snapshot 21w42a",
+        "version": "21w42a",
+        "md5": "cf518e2c80fdaef443d68d50d1ac23a72a0a7d85"
+    },
+    {
+        "name": "Snapshot 21w41a",
+        "version": "21w41a",
+        "md5": "8eab49e576b21d6babfc60dcd14c68fac4926ab3"
+    },
+    {
+        "name": "Snapshot 21w40a",
+        "version": "21w40a",
+        "md5": "84496ec4beeeae34a448b99f3e3d890066f6807f"
+    },
+    {
+        "name": "Snapshot 21w39a",
+        "version": "21w39a",
+        "md5": "2b40ef4bf57b2040f7d9affb48c0131b228f954f"
+    },
+    {
+        "name": "Snapshot 21w38a",
+        "version": "21w38a",
+        "md5": "1283dff678ee5efb8e52d2fc77ec9d840317c6ca"
+    },
+    {
+        "name": "Snapshot 21w37a",
+        "version": "21w37a",
+        "md5": "de695215d83f1f6ec5a19847f6178b84cfde7a26"
+    },
+    {
+        "name": "Snapshot 1.17.1-rc2",
+        "version": "1.17.1-rc2",
+        "md5": "dd9ca1bdc855535cd7ce0565f02285ad4d6d1ae5"
+    },
+    {
+        "name": "Snapshot 1.17.1-rc1",
+        "version": "1.17.1-rc1",
+        "md5": "b93cbcf6c65b92621d67b735e8610f7682f54694"
+    },
+    {
+        "name": "Snapshot 1.17.1-pre3",
+        "version": "1.17.1-pre3",
+        "md5": "04750b5adff60610a5ba2cd3aa8102f7086c9301"
+    },
+    {
+        "name": "Snapshot 1.17.1-pre2",
+        "version": "1.17.1-pre2",
+        "md5": "e01e495461ecb834bb6a242bfea608af4f22b955"
+    },
+    {
+        "name": "Snapshot 1.17.1-pre1",
+        "version": "1.17.1-pre1",
+        "md5": "42dfafdd31a1e6edfe59c79ea0e109fede1c8071"
+    },
+    {
+        "name": "Snapshot 1.17-rc2",
+        "version": "1.17-rc2",
+        "md5": "1b6e0511e1e419fdcf5a81e53e36b5558032ee79"
+    },
+    {
+        "name": "Snapshot 1.17-rc1",
+        "version": "1.17-rc1",
+        "md5": "4de310c8c4f4a8ab4574246c1d63e3de3af1444d"
+    },
+    {
+        "name": "Snapshot 1.17-pre5",
+        "version": "1.17-pre5",
+        "md5": "31bb40019e8d6e64299abafd743f4d3e1a1a68b2"
+    },
+    {
+        "name": "Snapshot 1.17-pre4",
+        "version": "1.17-pre4",
+        "md5": "528f491660bc5dc94c0d7911345a97438e5c1d86"
+    },
+    {
+        "name": "Snapshot 1.17-pre3",
+        "version": "1.17-pre3",
+        "md5": "18abbb3f980fc9b05188535db45a67276ea41f90"
+    },
+    {
+        "name": "Snapshot 1.17-pre2",
+        "version": "1.17-pre2",
+        "md5": "d8756c67ce3b3fe20d0510afb3e22fa16310b2e6"
+    },
+    {
+        "name": "Snapshot 1.17-pre1",
+        "version": "1.17-pre1",
+        "md5": "80a01a1178bcfb67b42636df3a9cdd275f3cc4d4"
+    },
+    {
+        "name": "Snapshot 21w20a",
+        "version": "21w20a",
+        "md5": "054b2065dd63c3e4227879046beae7acaeb7e8d3"
+    },
+    {
+        "name": "Snapshot 21w19a",
+        "version": "21w19a",
+        "md5": "d0a9151432af384f5f2ca72e8e43422772158d0e"
+    },
+    {
+        "name": "Snapshot 21w18a",
+        "version": "21w18a",
+        "md5": "0b18d883bd1132f761aa715d6a97e29e54a9b8b6"
+    },
+    {
+        "name": "Snapshot 21w17a",
+        "version": "21w17a",
+        "md5": "ec995f939bb41a785f960985e73821c7044fc32e"
+    },
+    {
+        "name": "Snapshot 21w16a",
+        "version": "21w16a",
+        "md5": "b8bacc67a9db84db59e2f97e9a9fba3a242480a8"
+    },
+    {
+        "name": "Snapshot 21w15a",
+        "version": "21w15a",
+        "md5": "0a39422009a7aa01dd185043746c50dc909dc345"
+    },
+    {
+        "name": "Snapshot 21w14a",
+        "version": "21w14a",
+        "md5": "0cb279c49ea3afda25c9d7257bef650e8dc17429"
+    },
+    {
+        "name": "Snapshot 21w13a",
+        "version": "21w13a",
+        "md5": "36d49b1a6d05f1deac293d477bfa2b4a1babb71c"
+    },
+    {
+        "name": "Snapshot 21w11a",
+        "version": "21w11a",
+        "md5": "c828957ad249138129ccbc8749bfd14f01d96a4b"
+    },
+    {
+        "name": "Snapshot 21w10a",
+        "version": "21w10a",
+        "md5": "5998d2c7c15fea04b2541efdcbec4c8cfe5df2a6"
+    },
+    {
+        "name": "Snapshot 21w08b",
+        "version": "21w08b",
+        "md5": "801d5e25869bab291077c773913cc2b490427314"
+    },
+    {
+        "name": "Snapshot 21w08a",
+        "version": "21w08a",
+        "md5": "d5e31633d884e190e046b8645f802541bec2a5e9"
+    },
+    {
+        "name": "Snapshot 21w07a",
+        "version": "21w07a",
+        "md5": "99c3a9744719d0d401af63bb684cf1eb5231a75c"
+    },
+    {
+        "name": "Snapshot 21w06a",
+        "version": "21w06a",
+        "md5": "6290ba4b475fca4a74de990c7fd8eccffd9654dd"
+    },
+    {
+        "name": "Snapshot 21w05b",
+        "version": "21w05b",
+        "md5": "f92547a92214ab71a58834e7453ab29a6ab2d192"
+    },
+    {
+        "name": "Snapshot 21w05a",
+        "version": "21w05a",
+        "md5": "ff10b6f3bb37799e933ff0c2c300626b78ebfb1d"
+    },
+    {
+        "name": "Snapshot 21w03a",
+        "version": "21w03a",
+        "md5": "dbe81ef81e20e76b1458be822026887fef84c541"
+    },
+    {
+        "name": "Snapshot 1.16.5-rc1",
+        "version": "1.16.5-rc1",
+        "md5": "ae3acf34bb6e2d8cc4e11a1d52036cdea3ea980b"
+    },
+    {
+        "name": "Snapshot 20w51a",
+        "version": "20w51a",
+        "md5": "fc87ef4c3cf1c815809249cc00ccade233b22cf5"
+    },
+    {
+        "name": "Snapshot 20w49a",
+        "version": "20w49a",
+        "md5": "2fc0afe1fd31ca872761efbd2a7f635db234b359"
+    },
+    {
+        "name": "Snapshot 20w48a",
+        "version": "20w48a",
+        "md5": "a14d24f89d5a4ec7521b91909caf4fee89c997f4"
+    },
+    {
+        "name": "Snapshot 20w46a",
+        "version": "20w46a",
+        "md5": "373675677cc57b9294a187a4d0ecab6f340d4189"
+    },
+    {
+        "name": "Snapshot 20w45a",
+        "version": "20w45a",
+        "md5": "043ec38297d0ec58abd6f636bc92f5664a8ccecb"
+    },
+    {
+        "name": "Snapshot 1.16.4-rc1",
+        "version": "1.16.4-rc1",
+        "md5": "daf2d997bd6b1725b6d59b48f533a6804d43db33"
+    },
+    {
+        "name": "Snapshot 1.16.4-pre2",
+        "version": "1.16.4-pre2",
+        "md5": "ceb412d94900167f519100736bc5709853b50b8c"
+    },
+    {
+        "name": "Snapshot 1.16.4-pre1",
+        "version": "1.16.4-pre1",
+        "md5": "28eb6f8c4c05eec278e3e7f9f0379a16adbfb91d"
+    },
+    {
+        "name": "Snapshot 1.16.3-rc1",
+        "version": "1.16.3-rc1",
+        "md5": "562bf3e75afea00875cff4a06165f93056646f32"
+    },
+    {
+        "name": "Snapshot 1.16.2-rc2",
+        "version": "1.16.2-rc2",
+        "md5": "45287d794fa2631b8da9b9002696ebe406fbed6b"
+    },
+    {
+        "name": "Snapshot 1.16.2-rc1",
+        "version": "1.16.2-rc1",
+        "md5": "203e18d79201b5e8c46019074b07e1c3b4c75f57"
+    },
+    {
+        "name": "Snapshot 1.16.2-pre3",
+        "version": "1.16.2-pre3",
+        "md5": "bd47f78f185a525388e446aa44975c147057ebbd"
+    },
+    {
+        "name": "Snapshot 1.16.2-pre2",
+        "version": "1.16.2-pre2",
+        "md5": "d2cae287324631b2b4bfa609dd01c63cd6d4b78d"
+    },
+    {
+        "name": "Snapshot 1.16.2-pre1",
+        "version": "1.16.2-pre1",
+        "md5": "d4434bf4f2f0572a4eb54b3da1b1b3069a4e9ef2"
+    },
+    {
+        "name": "Snapshot 20w30a",
+        "version": "20w30a",
+        "md5": "db5da41d9c5f6c0d839661269d70f5b8c1ff7d0a"
+    },
+    {
+        "name": "Snapshot 20w29a",
+        "version": "20w29a",
+        "md5": "ea9a65a38e000fe76b51fa36e923c09d5d8fa473"
+    },
+    {
+        "name": "Snapshot 20w28a",
+        "version": "20w28a",
+        "md5": "1e36d315d96c29d8d32aa8fecbfb8efa4243a746"
+    },
+    {
+        "name": "Snapshot 20w27a",
+        "version": "20w27a",
+        "md5": "40efae0a2412154f44a99f158752b8417b384f06"
+    },
+    {
+        "name": "Snapshot 1.16-rc1",
+        "version": "1.16-rc1",
+        "md5": "7213e5ba8fe8d352141cf3dde907c26c43480092"
+    },
+    {
+        "name": "Snapshot 1.16-pre8",
+        "version": "1.16-pre8",
+        "md5": "d6a747371b200216653be9b4140cd2862eddbb0e"
+    },
+    {
+        "name": "Snapshot 1.16-pre7",
+        "version": "1.16-pre7",
+        "md5": "577f7287642309a2a32e80be395329118dfddb3f"
+    },
+    {
+        "name": "Snapshot 1.16-pre6",
+        "version": "1.16-pre6",
+        "md5": "8984939f42371a7e614fa48669e308c4cc9ba228"
+    },
+    {
+        "name": "Snapshot 1.16-pre5",
+        "version": "1.16-pre5",
+        "md5": "56081523bca4f7074f111d1e8a9fd0a86d072a2b"
+    },
+    {
+        "name": "Snapshot 1.16-pre4",
+        "version": "1.16-pre4",
+        "md5": "018cdde89f8ff3831ce27c6c8dbf6831e99e0e75"
+    },
+    {
+        "name": "Snapshot 1.16-pre3",
+        "version": "1.16-pre3",
+        "md5": "0b5653b65bc494fa55349682cebf50abf0d72ad9"
+    },
+    {
+        "name": "Snapshot 1.16-pre2",
+        "version": "1.16-pre2",
+        "md5": "8daeb71269eb164097d7d7ab1fa93fc93ab125c3"
+    },
+    {
+        "name": "Snapshot 1.16-pre1",
+        "version": "1.16-pre1",
+        "md5": "ce66f98cabc1038ceba3b715b7dad5f70e27f88a"
+    },
+    {
+        "name": "Snapshot 20w22a",
+        "version": "20w22a",
+        "md5": "c4a62eb36917aaa06dc8e20a2a35264d5fda123b"
+    },
+    {
+        "name": "Snapshot 20w21a",
+        "version": "20w21a",
+        "md5": "03b8fa357937d0bdb6650ec8cc74506ec2fd91a7"
+    },
+    {
+        "name": "Snapshot 20w20b",
+        "version": "20w20b",
+        "md5": "0393774fb1f9db8288a56dbbcf45022b71f7939f"
+    },
+    {
+        "name": "Snapshot 20w20a",
+        "version": "20w20a",
+        "md5": "f06a943eb107494688b4447b97514af6d7311623"
+    },
+    {
+        "name": "Snapshot 20w19a",
+        "version": "20w19a",
+        "md5": "fbb3ad3e7b25e78723434434077995855141ff07"
+    },
+    {
+        "name": "Snapshot 20w18a",
+        "version": "20w18a",
+        "md5": "4d84832bdc7f62aa96b0d5d5a73b1272e8c474b5"
+    },
+    {
+        "name": "Snapshot 20w17a",
+        "version": "20w17a",
+        "md5": "0b7e36b084577fb26148c6341d590ac14606db21"
+    },
+    {
+        "name": "Snapshot 20w16a",
+        "version": "20w16a",
+        "md5": "754bbd654d8e6bd90cd7a1464a9e68a0624505dd"
+    },
+    {
+        "name": "Snapshot 20w15a",
+        "version": "20w15a",
+        "md5": "64ca02e1e9fc7e60eac4aba788580b16eb12f71f"
+    },
+    {
+        "name": "Snapshot 20w14a",
+        "version": "20w14a",
+        "md5": "affcf966ca903156070aa90b63417793a78b2165"
+    },
+    {
+        "name": "Snapshot 20w14infinite",
+        "version": "20w14infinite",
+        "md5": "c0711cd9608d1af3d6f05ac423dd8f4199780225"
+    },
+    {
+        "name": "Snapshot 20w13b",
+        "version": "20w13b",
+        "md5": "0e00cff8df2532a1ae252e773552c2fd6c68de80"
+    },
+    {
+        "name": "Snapshot 20w13a",
+        "version": "20w13a",
+        "md5": "16f18c21286a3f566d3d0431d13aa133bebe6eff"
+    },
+    {
+        "name": "Snapshot 20w12a",
+        "version": "20w12a",
+        "md5": "3d9657a172415a163e25096942f5a4d110b984a0"
+    },
+    {
+        "name": "Snapshot 20w11a",
+        "version": "20w11a",
+        "md5": "0c80ec15d36440cdeaffe1a0791fed78faea62ce"
+    },
+    {
+        "name": "Snapshot 20w10a",
+        "version": "20w10a",
+        "md5": "b9310c21839112d6758b0b245998f57a2b9a0500"
+    },
+    {
+        "name": "Snapshot 20w09a",
+        "version": "20w09a",
+        "md5": "6f1e5ae00b938bbe15560b7174be7a3b4c78c450"
+    },
+    {
+        "name": "Snapshot 20w08a",
+        "version": "20w08a",
+        "md5": "b46203f7cc23ec786710fdcf6f369935cf92dabb"
+    },
+    {
+        "name": "Snapshot 20w07a",
+        "version": "20w07a",
+        "md5": "3944965e1621a5ccbe99292479cc62e07bccd611"
+    },
+    {
+        "name": "Snapshot 20w06a",
+        "version": "20w06a",
+        "md5": "9b74998642553efe0e4d1aa079dc737b3e4cdc13"
+    },
+    {
+        "name": "Snapshot 1.15.2-pre2",
+        "version": "1.15.2-pre2",
+        "md5": "f3eae938f3382ffeb8c3af150664d33864561110"
+    },
+    {
+        "name": "Snapshot 1.15.2-pre1",
+        "version": "1.15.2-pre1",
+        "md5": "5db50a719dc40d63aa95c6bdc5b302e425f673f2"
+    },
+    {
+        "name": "Snapshot 1.15.1-pre1",
+        "version": "1.15.1-pre1",
+        "md5": "289a247dd42928880769398b049d3890513f2917"
+    },
+    {
+        "name": "Snapshot 1.15-pre7",
+        "version": "1.15-pre7",
+        "md5": "c1f961491a8340a1809292b7189046896deaa338"
+    },
+    {
+        "name": "Snapshot 1.15-pre6",
+        "version": "1.15-pre6",
+        "md5": "8d5793fe302feb6c03d3c5e590ef940fc02f2864"
+    },
+    {
+        "name": "Snapshot 1.15-pre5",
+        "version": "1.15-pre5",
+        "md5": "d68ce004ce760b702e2f7e298a2a1ce7a7663c55"
+    },
+    {
+        "name": "Snapshot 1.15-pre4",
+        "version": "1.15-pre4",
+        "md5": "8f9e23414a01d21e2cd313b2595b164ccfda56aa"
+    },
+    {
+        "name": "Snapshot 1.15-pre3",
+        "version": "1.15-pre3",
+        "md5": "eedb663e70f49a5592b88197ea68b0f32fd9ce97"
+    },
+    {
+        "name": "Snapshot 1.15-pre2",
+        "version": "1.15-pre2",
+        "md5": "0f0c2e3c25693189374c8a63179e3018ebfdc1ba"
+    },
+    {
+        "name": "Snapshot 1.15-pre1",
+        "version": "1.15-pre1",
+        "md5": "332b3382108e5bdb0b23717082c9b97c54ffc8ad"
+    },
+    {
+        "name": "Snapshot 19w46b",
+        "version": "19w46b",
+        "md5": "eded6ea3899b67478780576a3b92c6cac867b501"
+    },
+    {
+        "name": "Snapshot 19w46a",
+        "version": "19w46a",
+        "md5": "3544354ee91fee0439009e71c8e064ec8355600a"
+    },
+    {
+        "name": "Snapshot 19w45b",
+        "version": "19w45b",
+        "md5": "0d0d7db69eb40408c23ce4503dfd00671bcb9e6b"
+    },
+    {
+        "name": "Snapshot 19w45a",
+        "version": "19w45a",
+        "md5": "fa9e744ee6e5cccd4000e2269f8dff8ce96ce5a9"
+    },
+    {
+        "name": "Snapshot 19w44a",
+        "version": "19w44a",
+        "md5": "0a68a89351325fbad9b432b3eb24ae944860350e"
+    },
+    {
+        "name": "Snapshot 19w42a",
+        "version": "19w42a",
+        "md5": "1f8673dee28ff3a1714e17780f6b91d5372fe440"
+    },
+    {
+        "name": "Snapshot 19w41a",
+        "version": "19w41a",
+        "md5": "852eb4bfba2d886efeb88f82bcb706099193b121"
+    },
+    {
+        "name": "Snapshot 19w40a",
+        "version": "19w40a",
+        "md5": "7f3c050c9540cfe69d3bf8eff3ca0a38f98b6aef"
+    },
+    {
+        "name": "Snapshot 19w39a",
+        "version": "19w39a",
+        "md5": "c03cf9537bd7a34640d7e173551b7005799d5675"
+    },
+    {
+        "name": "Snapshot 19w38b",
+        "version": "19w38b",
+        "md5": "aff9049db1bcbd44d133ebfbd015dce49dd8383e"
+    },
+    {
+        "name": "Snapshot 19w38a",
+        "version": "19w38a",
+        "md5": "e40184002fa2e183de5fda0229d0709cfd6bfe8a"
+    },
+    {
+        "name": "Snapshot 19w37a",
+        "version": "19w37a",
+        "md5": "e2c6923d9e06f6b98460f0f584567848a70bf71b"
+    },
+    {
+        "name": "Snapshot 19w36a",
+        "version": "19w36a",
+        "md5": "c042fd138ae280b01ce191937ca917666a15be38"
+    },
+    {
+        "name": "Snapshot 19w35a",
+        "version": "19w35a",
+        "md5": "e0bfc54b4b424c43b1fe5b833d68e35d031a481d"
+    },
+    {
+        "name": "Snapshot 19w34a",
+        "version": "19w34a",
+        "md5": "288962c67d083e35d4313cf0eba8ad1e27173d17"
+    },
+    {
+        "name": "Snapshot 1.14.4-pre7",
+        "version": "1.14.4-pre7",
+        "md5": "98d1396495562dbb32828ef50bad7112c403c47e"
+    },
+    {
+        "name": "Snapshot 1.14.4-pre6",
+        "version": "1.14.4-pre6",
+        "md5": "d7b8f310278a5ea9efef03b4e441f12524253c5d"
+    },
+    {
+        "name": "Snapshot 1.14.4-pre5",
+        "version": "1.14.4-pre5",
+        "md5": "f45379dfa2ecd946a2ed81c354225a4181261333"
+    },
+    {
+        "name": "Snapshot 1.14.4-pre4",
+        "version": "1.14.4-pre4",
+        "md5": "853bf851bda5862b7f68baf93ae86fb90571ceca"
+    },
+    {
+        "name": "Snapshot 1.14.4-pre3",
+        "version": "1.14.4-pre3",
+        "md5": "b7ed47d4e600c6ead80f4c73c2e080625d07ef6e"
+    },
+    {
+        "name": "Snapshot 1.14.4-pre2",
+        "version": "1.14.4-pre2",
+        "md5": "a7023b92091ca5872d35b17c8aab1c6daa833a69"
+    },
+    {
+        "name": "Snapshot 1.14.4-pre1",
+        "version": "1.14.4-pre1",
+        "md5": "774c5619679673ec772b0f01f363d0145a9d6b51"
+    },
+    {
+        "name": "Snapshot 1.14.3-pre4",
+        "version": "1.14.3-pre4",
+        "md5": "d5397db937499277165abb27f8af04885be8b6b6"
+    },
+    {
+        "name": "Snapshot 1.14.3-pre3",
+        "version": "1.14.3-pre3",
+        "md5": "a46e49e1541cf24a75aabe2756514565de83634a"
+    },
+    {
+        "name": "Snapshot 1.14.3-pre2",
+        "version": "1.14.3-pre2",
+        "md5": "64caea4b63611111d775e4558341cb9718a6ff4f"
+    },
+    {
+        "name": "Snapshot 1.14.3-pre1",
+        "version": "1.14.3-pre1",
+        "md5": "966984c5d8b5c3604a8838f8fb5635b8b9cd73c7"
+    },
+    {
+        "name": "Snapshot 1.14.2 Pre-Release 4",
+        "version": "1.14.2 Pre-Release 4",
+        "md5": "6bba54ad86fccc45cc68ba410e738d3b331cdadd"
+    },
+    {
+        "name": "Snapshot 1.14.2 Pre-Release 3",
+        "version": "1.14.2 Pre-Release 3",
+        "md5": "307fb7e6208bd843060b1844857dc5e1d555a1df"
+    },
+    {
+        "name": "Snapshot 1.14.2 Pre-Release 2",
+        "version": "1.14.2 Pre-Release 2",
+        "md5": "a2cedc73237e999a5d408ecf0923a130d69d45a1"
+    },
+    {
+        "name": "Snapshot 1.14.2 Pre-Release 1",
+        "version": "1.14.2 Pre-Release 1",
+        "md5": "1aad89bfe7a14bee70de0b07339a2f319771180f"
+    },
+    {
+        "name": "Snapshot 1.14.1 Pre-Release 2",
+        "version": "1.14.1 Pre-Release 2",
+        "md5": "ea3a8bee27e1ca4185bf703fb4e414800f533fc9"
+    },
+    {
+        "name": "Snapshot 1.14.1 Pre-Release 1",
+        "version": "1.14.1 Pre-Release 1",
+        "md5": "0bbed1aa2ef4bd4c0d6134461ac3e8eba1dc5f62"
+    },
+    {
+        "name": "Snapshot 1.14 Pre-Release 5",
+        "version": "1.14 Pre-Release 5",
+        "md5": "5d550762b9c82ab4fe9f259c14fcf7bf7ed8017a"
+    },
+    {
+        "name": "Snapshot 1.14 Pre-Release 4",
+        "version": "1.14 Pre-Release 4",
+        "md5": "cf967a23b452ab474bf7bcb69fd029a5f8b84bba"
+    },
+    {
+        "name": "Snapshot 1.14 Pre-Release 3",
+        "version": "1.14 Pre-Release 3",
+        "md5": "6b747e1338e1aa058146032a659cf654c446552d"
+    },
+    {
+        "name": "Snapshot 1.14 Pre-Release 2",
+        "version": "1.14 Pre-Release 2",
+        "md5": "353cc74b9aefd4675730449f50f5c0066063ac3f"
+    },
+    {
+        "name": "Snapshot 1.14 Pre-Release 1",
+        "version": "1.14 Pre-Release 1",
+        "md5": "6f27430bcd9b06d3dcb5d2966c75d5e491915c9c"
+    },
+    {
+        "name": "Snapshot 19w14b",
+        "version": "19w14b",
+        "md5": "719781c28dbcf7d0576e81fe5e77d75c1f18117f"
+    },
+    {
+        "name": "Snapshot 19w14a",
+        "version": "19w14a",
+        "md5": "a786a10223f5218967bfd42a06f4bee9e9563f56"
+    },
+    {
+        "name": "Snapshot 3D Shareware v1.34",
+        "version": "3D Shareware v1.34",
+        "md5": "ffd306fc2aaa884755c5a6bf9fbd87aed26dd78f"
+    },
+    {
+        "name": "Snapshot 19w13b",
+        "version": "19w13b",
+        "md5": "6d395392d8aac9bcde96322831042c77410b0a19"
+    },
+    {
+        "name": "Snapshot 19w13a",
+        "version": "19w13a",
+        "md5": "c63080e9349640fda5820bbe48cacc623c99c496"
+    },
+    {
+        "name": "Snapshot 19w12b",
+        "version": "19w12b",
+        "md5": "37d6d9753b8eac2420e9deba132c38e00c8204c3"
+    },
+    {
+        "name": "Snapshot 19w12a",
+        "version": "19w12a",
+        "md5": "dc1a1dfef026d38dfc04b360653172f5428f86ef"
+    },
+    {
+        "name": "Snapshot 19w11b",
+        "version": "19w11b",
+        "md5": "1c453ba8ccaabc38d924e7c11fe73c65a1978a33"
+    },
+    {
+        "name": "Snapshot 19w11a",
+        "version": "19w11a",
+        "md5": "388221ffa9e8e1576e07f9839eadd2ac7bd51cbb"
+    },
+    {
+        "name": "Snapshot 19w09a",
+        "version": "19w09a",
+        "md5": "266d772f79eebe55de3856ae3fe675c0699cd1ca"
+    },
+    {
+        "name": "Snapshot 19w08b",
+        "version": "19w08b",
+        "md5": "045006b74b84a8e04e0e6e0c89c8069c9476938f"
+    },
+    {
+        "name": "Snapshot 19w08a",
+        "version": "19w08a",
+        "md5": "f337f8dfb765f152388d5038a6e0e8830782e5ed"
+    },
+    {
+        "name": "Snapshot 19w07a",
+        "version": "19w07a",
+        "md5": "d370db01d591576477c3efc940a42926f43bc98f"
+    },
+    {
+        "name": "Snapshot 19w06a",
+        "version": "19w06a",
+        "md5": "20c069d373e77265aaeeedb733f7051e294325a3"
+    },
+    {
+        "name": "Snapshot 19w05a",
+        "version": "19w05a",
+        "md5": "521021450baf9b9b98b0a6d0cb60e97f306f4f57"
+    },
+    {
+        "name": "Snapshot 19w04b",
+        "version": "19w04b",
+        "md5": "7a5a3bbefcb4d27fd9ac30736eee06ae1e2c0991"
+    },
+    {
+        "name": "Snapshot 19w04a",
+        "version": "19w04a",
+        "md5": "261edfd76c32c9f675c12264b6fa03f670c3325c"
+    },
+    {
+        "name": "Snapshot 19w03c",
+        "version": "19w03c",
+        "md5": "e9fdb18631fc4ff23b06b1e827fb653ac20532fe"
+    },
+    {
+        "name": "Snapshot 19w03b",
+        "version": "19w03b",
+        "md5": "a3a358a7566debb17c5332fbc43eb8b84e000997"
+    },
+    {
+        "name": "Snapshot 19w03a",
+        "version": "19w03a",
+        "md5": "1e80738a5360887bc93a46bdffb07699a45bf5a1"
+    },
+    {
+        "name": "Snapshot 19w02a",
+        "version": "19w02a",
+        "md5": "f8078dd487483a917645f7a5561290e28bd875c4"
+    },
+    {
+        "name": "Snapshot 18w50a",
+        "version": "18w50a",
+        "md5": "de0577900a9071758d7f1172dd283bdbe88b7431"
+    },
+    {
+        "name": "Snapshot 18w49a",
+        "version": "18w49a",
+        "md5": "5b6eb767f6708d351e3d1009a44115bb033b854f"
+    },
+    {
+        "name": "Snapshot 18w48b",
+        "version": "18w48b",
+        "md5": "cfa41132beeb877a093e044aba591d9dae236c38"
+    },
+    {
+        "name": "Snapshot 18w48a",
+        "version": "18w48a",
+        "md5": "f0f04983d197388b05a4647f7a7cf8b5fbbac5d3"
+    },
+    {
+        "name": "Snapshot 18w47b",
+        "version": "18w47b",
+        "md5": "fa9d22eea98b62f6663f1aa8a25840e0993485e6"
+    },
+    {
+        "name": "Snapshot 18w47a",
+        "version": "18w47a",
+        "md5": "7066873e9b86cfcd5b66c6a98d2587d95bf94adc"
+    },
+    {
+        "name": "Snapshot 18w46a",
+        "version": "18w46a",
+        "md5": "6681e24d2dc9ba60a6e7d1fbbf25b2af70ff9d1c"
+    },
+    {
+        "name": "Snapshot 18w45a",
+        "version": "18w45a",
+        "md5": "a004069d93ebfd9a6d93c57b66becac29f876d4c"
+    },
+    {
+        "name": "Snapshot 18w44a",
+        "version": "18w44a",
+        "md5": "e70221701d85ad9ed8be35e042f4c8e52fb627ec"
+    },
+    {
+        "name": "Snapshot 18w43c",
+        "version": "18w43c",
+        "md5": "b2dc0522b0802cbb8e81d1afd3e46be8819d3c1d"
+    },
+    {
+        "name": "Snapshot 18w43b",
+        "version": "18w43b",
+        "md5": "ed443be5ff6a304164612c545f0942fd99d53e13"
+    },
+    {
+        "name": "Snapshot 18w43a",
+        "version": "18w43a",
+        "md5": "08ca3aaa7ff61d4ae06d5d63476724a1f32cb6b0"
+    },
+    {
+        "name": "Snapshot 1.13.2-pre2",
+        "version": "1.13.2-pre2",
+        "md5": "2f39df32f20196b5a6acad117f7d6b404b069c58"
+    },
+    {
+        "name": "Snapshot 1.13.2-pre1",
+        "version": "1.13.2-pre1",
+        "md5": "744df5d6872645a8f919459473e0e02a3571e6bb"
+    },
+    {
+        "name": "Snapshot 1.13.1-pre2",
+        "version": "1.13.1-pre2",
+        "md5": "c2a4bcf3e244c46f13c39e31e7ef6030564fb6c2"
+    },
+    {
+        "name": "Snapshot 1.13.1-pre1",
+        "version": "1.13.1-pre1",
+        "md5": "988fec4e71e5fa1fc29a50230de05a11973d62ab"
+    },
+    {
+        "name": "Snapshot 18w33a",
+        "version": "18w33a",
+        "md5": "e62f0a29e4ab5963488330f29c03ca2914b5b22b"
+    },
+    {
+        "name": "Snapshot 18w32a",
+        "version": "18w32a",
+        "md5": "d36429ccdcaa73cb37b366d608024e3a6a5a20ab"
+    },
+    {
+        "name": "Snapshot 18w31a",
+        "version": "18w31a",
+        "md5": "4646084899fb62a7b9afa6f453fae4e6e786e5a5"
+    },
+    {
+        "name": "Snapshot 18w30b",
+        "version": "18w30b",
+        "md5": "373b2fb24db8ed21d25483a986e9eb7f945c5277"
+    },
+    {
+        "name": "Snapshot 18w30a",
+        "version": "18w30a",
+        "md5": "4cfe675115064caad14712c3345660f4069a2e8b"
+    },
+    {
+        "name": "Snapshot 1.13-pre10",
+        "version": "1.13-pre10",
+        "md5": "2ffcae7a9489d515b0f733430923ef974dffd56b"
+    },
+    {
+        "name": "Snapshot 1.13-pre9",
+        "version": "1.13-pre9",
+        "md5": "ee66f5cb1247f4340734a151db4f940bbe04f833"
+    },
+    {
+        "name": "Snapshot 1.13-pre8",
+        "version": "1.13-pre8",
+        "md5": "b04f82ae0f3018c4c22a153184b385012c4d0814"
+    },
+    {
+        "name": "Snapshot 1.13-pre7",
+        "version": "1.13-pre7",
+        "md5": "6cd8348fadedaa1de5851f449b995c835bb569eb"
+    },
+    {
+        "name": "Snapshot 1.13-pre6",
+        "version": "1.13-pre6",
+        "md5": "71a2f9a760f0cbcf09d1eae60eebe1ccbb7ea1db"
+    },
+    {
+        "name": "Snapshot 1.13-pre5",
+        "version": "1.13-pre5",
+        "md5": "6d9ede222df5726059aba1b01f99c328bc16f1a5"
+    },
+    {
+        "name": "Snapshot 1.13-pre4",
+        "version": "1.13-pre4",
+        "md5": "d57007a8722ed645319666fc56b27690054d8363"
+    },
+    {
+        "name": "Snapshot 1.13-pre3",
+        "version": "1.13-pre3",
+        "md5": "5406f31cb5274ae48938851de697b32976ecb499"
+    },
+    {
+        "name": "Snapshot 1.13-pre2",
+        "version": "1.13-pre2",
+        "md5": "5b312060d457a1f75846afd3935ec3f140da3942"
+    },
+    {
+        "name": "Snapshot 1.13-pre1",
+        "version": "1.13-pre1",
+        "md5": "e031e58e1d9e745877404530d39775bf9ffa9a56"
+    },
+    {
+        "name": "Snapshot 18w22c",
+        "version": "18w22c",
+        "md5": "d66173b86e26e6835e36c63eb2828652186a4698"
+    },
+    {
+        "name": "Snapshot 18w22b",
+        "version": "18w22b",
+        "md5": "cc0b6a96e537528cdaab685c4eaeeaf8ed905b51"
+    },
+    {
+        "name": "Snapshot 18w22a",
+        "version": "18w22a",
+        "md5": "077225ee7bca03f521ed8df86fa4740b8e7a3cad"
+    },
+    {
+        "name": "Snapshot 18w21b",
+        "version": "18w21b",
+        "md5": "df8cc7cfa4c2d24f31f5997a102f1d6411f038d0"
+    },
+    {
+        "name": "Snapshot 18w21a",
+        "version": "18w21a",
+        "md5": "2022a23da58dc55371b6a182fb1ba59742dc66a2"
+    },
+    {
+        "name": "Snapshot 18w20c",
+        "version": "18w20c",
+        "md5": "9e0ffb265e3771dc5c7b56f291b9c9d8f668f48b"
+    },
+    {
+        "name": "Snapshot 18w20b",
+        "version": "18w20b",
+        "md5": "35304e17de5fbe503b10bad50192d14a38e5cec0"
+    },
+    {
+        "name": "Snapshot 18w20a",
+        "version": "18w20a",
+        "md5": "108a051216637e0145f6b0e66182b48736595fc3"
+    },
+    {
+        "name": "Snapshot 18w19b",
+        "version": "18w19b",
+        "md5": "87edb914af0594016fab77eaaa9d25c7f1f1d132"
+    },
+    {
+        "name": "Snapshot 18w19a",
+        "version": "18w19a",
+        "md5": "97ad982d57fb7b7cb9dc28ffd87c79538b1901f6"
+    },
+    {
+        "name": "Snapshot 18w16a",
+        "version": "18w16a",
+        "md5": "87ca53126694ff105edf65d8206a4529fbadd0a3"
+    },
+    {
+        "name": "Snapshot 18w15a",
+        "version": "18w15a",
+        "md5": "3f9534ab77a524593db7a20196e41ae36b23d69d"
+    },
+    {
+        "name": "Snapshot 18w14b",
+        "version": "18w14b",
+        "md5": "85d6445fc4596e6b69fb00f0d3e5462dfeeb933c"
+    },
+    {
+        "name": "Snapshot 18w14a",
+        "version": "18w14a",
+        "md5": "50b4ca8fe7853ae6757a163a80e67cb8437fb082"
+    },
+    {
+        "name": "Snapshot 18w11a",
+        "version": "18w11a",
+        "md5": "4286b7cbc4709c8f61c93a77b42c70918376cac3"
+    },
+    {
+        "name": "Snapshot 18w10d",
+        "version": "18w10d",
+        "md5": "28727c7dfb62c56ac48153ab9a25d42115f85f94"
+    },
+    {
+        "name": "Snapshot 18w10c",
+        "version": "18w10c",
+        "md5": "7c2494311ab74f97623ebf6e2d5beba625a9d5fc"
+    },
+    {
+        "name": "Snapshot 18w10b",
+        "version": "18w10b",
+        "md5": "b45d7194b91327c8fd2c1d0d5a738b80c9600562"
+    },
+    {
+        "name": "Snapshot 18w10a",
+        "version": "18w10a",
+        "md5": "7bb1cfb4560d2e99551b22a631b6087d43817a45"
+    },
+    {
+        "name": "Snapshot 18w09a",
+        "version": "18w09a",
+        "md5": "57dd2fe4a2fdb6e846b978e77442465d2ea27f43"
+    },
+    {
+        "name": "Snapshot 18w08b",
+        "version": "18w08b",
+        "md5": "cdfdcdd799087d9b66f04667f0717a11e28c29cc"
+    },
+    {
+        "name": "Snapshot 18w08a",
+        "version": "18w08a",
+        "md5": "09b2bc558d86878ce69f303ddbd62bf4489db068"
+    },
+    {
+        "name": "Snapshot 18w07c",
+        "version": "18w07c",
+        "md5": "52e141870c3c850811710f2ba07eb3e7e583ea92"
+    },
+    {
+        "name": "Snapshot 18w07b",
+        "version": "18w07b",
+        "md5": "669811c0df3fedef8a15f1b31c96df966b9aee79"
+    },
+    {
+        "name": "Snapshot 18w07a",
+        "version": "18w07a",
+        "md5": "e90255faadbb7f009fa38a507f62f751dcc56c9b"
+    },
+    {
+        "name": "Snapshot 18w06a",
+        "version": "18w06a",
+        "md5": "4e47158fd42d966884a7ffb7440b35d86c038049"
+    },
+    {
+        "name": "Snapshot 18w05a",
+        "version": "18w05a",
+        "md5": "a4029c808cef57bed3228a51dcb7f68edd018a77"
+    },
+    {
+        "name": "Snapshot 18w03b",
+        "version": "18w03b",
+        "md5": "ef8c70a7c9b88c02c64ea01d050614929b7152f6"
+    },
+    {
+        "name": "Snapshot 18w03a",
+        "version": "18w03a",
+        "md5": "713a291a4da5cad056964c1fcda8c888e154eb73"
+    },
+    {
+        "name": "Snapshot 18w02a",
+        "version": "18w02a",
+        "md5": "950b737e9cefc9f91f286190166f062d6b0e0105"
+    },
+    {
+        "name": "Snapshot 18w01a",
+        "version": "18w01a",
+        "md5": "47a8d2bb4db5b5e3db6b7837c9f0fa17ea660448"
+    },
+    {
+        "name": "Snapshot 17w50a",
+        "version": "17w50a",
+        "md5": "670c67a4dfbd1070a9be629124ddd8aac8d9b9d9"
+    },
+    {
+        "name": "Snapshot 17w49b",
+        "version": "17w49b",
+        "md5": "caac50590085014355070ea6381baec0f58aa9f2"
+    },
+    {
+        "name": "Snapshot 17w49a",
+        "version": "17w49a",
+        "md5": "561fe37463ef30b4e1ab4c6b1da057d9e2b17801"
+    },
+    {
+        "name": "Snapshot 17w48a",
+        "version": "17w48a",
+        "md5": "e132a348243b824ba6f74569c8b1080b77104981"
+    },
+    {
+        "name": "Snapshot 17w47b",
+        "version": "17w47b",
+        "md5": "9b4e7894906f0b379c7300cff0b3e68a4b9db662"
+    },
+    {
+        "name": "Snapshot 17w47a",
+        "version": "17w47a",
+        "md5": "0cec7f11d7bf9c36464b1815e5bbcb0afe6db019"
+    },
+    {
+        "name": "Snapshot 17w46a",
+        "version": "17w46a",
+        "md5": "9127416e2341eb8fb7b63636c3ae39efefb2843b"
+    },
+    {
+        "name": "Snapshot 17w45b",
+        "version": "17w45b",
+        "md5": "eec0c6c49b1066b648f39e1dcef8c76510a794dc"
+    },
+    {
+        "name": "Snapshot 17w45a",
+        "version": "17w45a",
+        "md5": "471b2dfa12e4df234057159ce5ee8320da3c84c1"
+    },
+    {
+        "name": "Snapshot 17w43b",
+        "version": "17w43b",
+        "md5": "0447782ac5280f8f981c3998609928984213a4c7"
+    },
+    {
+        "name": "Snapshot 17w43a",
+        "version": "17w43a",
+        "md5": "6f6869d527140e5531e655bda10911efb65425bb"
+    },
+    {
+        "name": "Snapshot 1.12.2-pre2",
+        "version": "1.12.2-pre2",
+        "md5": "641adfb6a646fe12f1fb2715ed4e3167c7ff2f2b"
+    },
+    {
+        "name": "Snapshot 1.12.2-pre1",
+        "version": "1.12.2-pre1",
+        "md5": "b81c81335e68731d66ccddc21df0c06d7b9b46ab"
+    },
+    {
+        "name": "Snapshot 1.12.1-pre1",
+        "version": "1.12.1-pre1",
+        "md5": "b25c39f4658911169e184f00a24798f6463ded14"
+    },
+    {
+        "name": "Snapshot 17w31a",
+        "version": "17w31a",
+        "md5": "00b83b98c91dbe3531342325f72654ef6d7be6eb"
+    },
+    {
+        "name": "Snapshot 1.12-pre7",
+        "version": "1.12-pre7",
+        "md5": "a8d79598161edc5f67b606120ea9e62bcefcaaa7"
+    },
+    {
+        "name": "Snapshot 1.12-pre6",
+        "version": "1.12-pre6",
+        "md5": "9bc0e57debc61da93c0ea0d97849254db4f4e556"
+    },
+    {
+        "name": "Snapshot 1.12-pre5",
+        "version": "1.12-pre5",
+        "md5": "40e76b2836c92cd9e05af61bb64046c8650c088d"
+    },
+    {
+        "name": "Snapshot 1.12-pre4",
+        "version": "1.12-pre4",
+        "md5": "588bcccfff42acc2cb6f7c6470cd6bc8ba393668"
+    },
+    {
+        "name": "Snapshot 1.12-pre3",
+        "version": "1.12-pre3",
+        "md5": "c985b2083848efcc8d1658d6cda5644681035f80"
+    },
+    {
+        "name": "Snapshot 1.12-pre2",
+        "version": "1.12-pre2",
+        "md5": "e5fd1c4202f9b0855d9104b66ba4182d52e79c38"
+    },
+    {
+        "name": "Snapshot 1.12-pre1",
+        "version": "1.12-pre1",
+        "md5": "ebcafa3e1a3312500893087bf4bfb6c6f335ef0e"
+    },
+    {
+        "name": "Snapshot 17w18b",
+        "version": "17w18b",
+        "md5": "915c1833209d588ade3e064577700037093861da"
+    },
+    {
+        "name": "Snapshot 17w18a",
+        "version": "17w18a",
+        "md5": "b1f45946bd74f4e2cf1833324770809ebcd0b7b1"
+    },
+    {
+        "name": "Snapshot 17w17b",
+        "version": "17w17b",
+        "md5": "7cf669824e4c8340050adcc2125f1ec4cb84feac"
+    },
+    {
+        "name": "Snapshot 17w17a",
+        "version": "17w17a",
+        "md5": "3795d253cfef44f1f1467422b4399d1770484dc0"
+    },
+    {
+        "name": "Snapshot 17w16b",
+        "version": "17w16b",
+        "md5": "80601961e590046727791d6b18f51d840ea86e1c"
+    },
+    {
+        "name": "Snapshot 17w16a",
+        "version": "17w16a",
+        "md5": "47cfe5d44ccf6333b697da3e82e35bb3725e53d8"
+    },
+    {
+        "name": "Snapshot 17w15a",
+        "version": "17w15a",
+        "md5": "cc26caa34e1a53326ec374d229db07a0e2a7de17"
+    },
+    {
+        "name": "Snapshot 17w14a",
+        "version": "17w14a",
+        "md5": "0530caf1d099fc730ca335a21bcf2fbb58c42c64"
+    },
+    {
+        "name": "Snapshot 17w13b",
+        "version": "17w13b",
+        "md5": "7bd51f821ed09b6a1d3a9a9b2fc67b48f1d829c4"
+    },
+    {
+        "name": "Snapshot 17w13a",
+        "version": "17w13a",
+        "md5": "d3806f89b9c90cbfb78919a3bcc010ad2e5d6ebb"
+    },
+    {
+        "name": "Snapshot 17w06a",
+        "version": "17w06a",
+        "md5": "37441cab126ee2a4f292c9bf488c9dd800cff841"
+    },
+    {
+        "name": "Snapshot 16w50a",
+        "version": "16w50a",
+        "md5": "d4d30a5433846d205974ace4cf34c9b294e0833f"
+    },
+    {
+        "name": "Snapshot 1.11-pre1",
+        "version": "1.11-pre1",
+        "md5": "7e2884f11e3fb52ed1ad82376e3cada3aa95152e"
+    },
+    {
+        "name": "Snapshot 16w44a",
+        "version": "16w44a",
+        "md5": "9f30eff92cc234034581f0a1ef40c6d76f6b3e69"
+    },
+    {
+        "name": "Snapshot 16w43a",
+        "version": "16w43a",
+        "md5": "c5cc57bfd0a3462c2634a37c83877e91f25f020b"
+    },
+    {
+        "name": "Snapshot 16w42a",
+        "version": "16w42a",
+        "md5": "ad6aa39daf88864fcd84b231638e3dc28bde83f3"
+    },
+    {
+        "name": "Snapshot 16w41a",
+        "version": "16w41a",
+        "md5": "94f47b24edd154d89240e49d9b7371e74f433d19"
+    },
+    {
+        "name": "Snapshot 16w40a",
+        "version": "16w40a",
+        "md5": "64a1a5ba3f347c5e03477b42ac13d10ee193b51c"
+    },
+    {
+        "name": "Snapshot 16w39c",
+        "version": "16w39c",
+        "md5": "df13c6cbf5fc735896b22f56b1f8940dd11a3b5f"
+    },
+    {
+        "name": "Snapshot 16w39b",
+        "version": "16w39b",
+        "md5": "07eb3f85fc848ec8e209377aee1f7f574566e130"
+    },
+    {
+        "name": "Snapshot 16w39a",
+        "version": "16w39a",
+        "md5": "f5e840e9f37ae7f50c9c979669279bcc68c91fa7"
+    },
+    {
+        "name": "Snapshot 16w38a",
+        "version": "16w38a",
+        "md5": "95ffd7c33ad9f978d4a23762978923b96fc0aa7e"
+    },
+    {
+        "name": "Snapshot 16w36a",
+        "version": "16w36a",
+        "md5": "921580b22ce7d48f9d541364a3b04eebb680222e"
+    },
+    {
+        "name": "Snapshot 16w35a",
+        "version": "16w35a",
+        "md5": "16ad43cb3b87b0279028af26201af7651b87c9e0"
+    },
+    {
+        "name": "Snapshot 16w33a",
+        "version": "16w33a",
+        "md5": "dfdda3e5ba769ba0634ad43ca1124a401d6addca"
+    },
+    {
+        "name": "Snapshot 16w32b",
+        "version": "16w32b",
+        "md5": "b912ff1468e93003f36cda32db5d70133b517f97"
+    },
+    {
+        "name": "Snapshot 16w32a",
+        "version": "16w32a",
+        "md5": "b1309cff6c574e9487e3413773841ef5eb260587"
+    },
+    {
+        "name": "Snapshot 1.10-pre2",
+        "version": "1.10-pre2",
+        "md5": "aa4ec0004eb20a70ef7426816cae992d73718038"
+    },
+    {
+        "name": "Snapshot 1.10-pre1",
+        "version": "1.10-pre1",
+        "md5": "c9c34ba406f694e56c1729b465c25e0f63ce9743"
+    },
+    {
+        "name": "Snapshot 16w21b",
+        "version": "16w21b",
+        "md5": "6dedac03d0fbfbcabe8ef09b170a577a9f72c6f8"
+    },
+    {
+        "name": "Snapshot 16w21a",
+        "version": "16w21a",
+        "md5": "12d65aa459d3e93643746dce14c100b05fbcdddf"
+    },
+    {
+        "name": "Snapshot 16w20a",
+        "version": "16w20a",
+        "md5": "2cbcbd735cb48c8cc2bebb7b43c8afa69a923269"
+    },
+    {
+        "name": "Snapshot 1.9.3-pre3",
+        "version": "1.9.3-pre3",
+        "md5": "ef902371fa5cbb50288b4801f9e58432c627d8e7"
+    },
+    {
+        "name": "Snapshot 1.9.3-pre2",
+        "version": "1.9.3-pre2",
+        "md5": "41c29ba7fca8d2a0ce3bab620600459e6023458c"
+    },
+    {
+        "name": "Snapshot 1.9.3-pre1",
+        "version": "1.9.3-pre1",
+        "md5": "5d7391b36ccbc4ec04a259a3f7c6609232f30762"
+    },
+    {
+        "name": "Snapshot 16w15b",
+        "version": "16w15b",
+        "md5": "5add6bcbd04c20bef6ed5db4431651c0c1282489"
+    },
+    {
+        "name": "Snapshot 16w15a",
+        "version": "16w15a",
+        "md5": "c254bc24caac3f6d5059f2cc64a80ded2e164289"
+    },
+    {
+        "name": "Snapshot 16w14a",
+        "version": "16w14a",
+        "md5": "5616b2213b727241821a137b4ef290c7bbace20a"
+    },
+    {
+        "name": "Snapshot 1.RV-Pre1",
+        "version": "1.RV-Pre1",
+        "md5": "f51d9489706f603be6be9716407f1dab5f7f2733"
+    },
+    {
+        "name": "Snapshot 1.9.1-pre3",
+        "version": "1.9.1-pre3",
+        "md5": "6cf7cb1c561e2915c4370bfb4cf3f5e10058d537"
+    },
+    {
+        "name": "Snapshot 1.9.1-pre2",
+        "version": "1.9.1-pre2",
+        "md5": "bc7000381cec5819aefeea8b68ecc232208ab3ad"
+    },
+    {
+        "name": "Snapshot 1.9.1-pre1",
+        "version": "1.9.1-pre1",
+        "md5": "04a6ca96d4024050c50570731568b94771ff7910"
+    },
+    {
+        "name": "Snapshot 1.9-pre4",
+        "version": "1.9-pre4",
+        "md5": "bbcbe9f89ef3cacd96dfd1df4d88588369fbd767"
+    },
+    {
+        "name": "Snapshot 1.9-pre3",
+        "version": "1.9-pre3",
+        "md5": "db995628b109fd83953ffadb749c2432fac70d9e"
+    },
+    {
+        "name": "Snapshot 1.9-pre2",
+        "version": "1.9-pre2",
+        "md5": "ac6c4226ca5f1f7ea4c6f936f88d1df7c82d3a92"
+    },
+    {
+        "name": "Snapshot 1.9-pre1",
+        "version": "1.9-pre1",
+        "md5": "e166c9863dc5a6444d8260b46423325d4130b429"
+    },
+    {
+        "name": "Snapshot 16w07b",
+        "version": "16w07b",
+        "md5": "35749ef82ac7ae76b990d9e6f6c23a14f213ea68"
+    },
+    {
+        "name": "Snapshot 16w07a",
+        "version": "16w07a",
+        "md5": "f2bfcb799a616611801ff0295312e563f782ff78"
+    },
+    {
+        "name": "Snapshot 16w06a",
+        "version": "16w06a",
+        "md5": "c4da6936d6374fd7116900135a2ae664de63d3bf"
+    },
+    {
+        "name": "Snapshot 16w05b",
+        "version": "16w05b",
+        "md5": "9fdf8a90055b3cf689265cc30bdd9d1faf2c743c"
+    },
+    {
+        "name": "Snapshot 16w05a",
+        "version": "16w05a",
+        "md5": "d74a9989d7dcd73c90191a65ae09e15b2371ffbd"
+    },
+    {
+        "name": "Snapshot 16w04a",
+        "version": "16w04a",
+        "md5": "8b7d974f3161ddb90b14ff77a668bf0350689bb2"
+    },
+    {
+        "name": "Snapshot 16w03a",
+        "version": "16w03a",
+        "md5": "ab14d7c921434c4651d171ce7f2873f56e8a7316"
+    },
+    {
+        "name": "Snapshot 16w02a",
+        "version": "16w02a",
+        "md5": "c574c54826489e1c04dd54d634da83945824337b"
+    },
+    {
+        "name": "Snapshot 15w51b",
+        "version": "15w51b",
+        "md5": "2fe31afafacd3cd000d8496b258124a79db6dd01"
+    },
+    {
+        "name": "Snapshot 15w51a",
+        "version": "15w51a",
+        "md5": "4d5f4d2111272d67f2238b83a552599b9b7ad92f"
+    },
+    {
+        "name": "Snapshot 15w50a",
+        "version": "15w50a",
+        "md5": "3ce8624859c8d38b38d2209e30f4fe76b2866de9"
+    },
+    {
+        "name": "Snapshot 15w49b",
+        "version": "15w49b",
+        "md5": "e376081a73fe429c23db41a99a68a4b04c53ba8e"
+    },
+    {
+        "name": "Snapshot 15w49a",
+        "version": "15w49a",
+        "md5": "63e4904766e1af15c1a4a412ec3aeb9c5972176d"
+    },
+    {
+        "name": "Snapshot 15w47c",
+        "version": "15w47c",
+        "md5": "9ec245a239150ccb0f8cdae430d25ed04899bb51"
+    },
+    {
+        "name": "Snapshot 15w47b",
+        "version": "15w47b",
+        "md5": "80cfe2c26ef21e10feb1458c46c244caa07ebcf1"
+    },
+    {
+        "name": "Snapshot 15w47a",
+        "version": "15w47a",
+        "md5": "2299e712df1aacb7297d63b75a5299fe35c9b9fd"
+    },
+    {
+        "name": "Snapshot 15w46a",
+        "version": "15w46a",
+        "md5": "f0f25f22430b0c122308244f210df66ae3ce7894"
+    },
+    {
+        "name": "Snapshot 15w45a",
+        "version": "15w45a",
+        "md5": "6bae28a2f80749ba7fc379e44acc46ac5fe44920"
+    },
+    {
+        "name": "Snapshot 15w44b",
+        "version": "15w44b",
+        "md5": "7bda3375d5509536766d65cf47b2a17ef42b964a"
+    },
+    {
+        "name": "Snapshot 15w44a",
+        "version": "15w44a",
+        "md5": "087cd273ee072bf626f89da4ccbb2841854f39ed"
+    },
+    {
+        "name": "Snapshot 15w43c",
+        "version": "15w43c",
+        "md5": "e514e7107639d2e8b285ceff5eaa114379dafba7"
+    },
+    {
+        "name": "Snapshot 15w43b",
+        "version": "15w43b",
+        "md5": "3154e2f53b1a50159d53f0dc8e4f47857344690f"
+    },
+    {
+        "name": "Snapshot 15w43a",
+        "version": "15w43a",
+        "md5": "dfc6b233c097fa377f35972e7c95e3c23c632f3c"
+    },
+    {
+        "name": "Snapshot 15w42a",
+        "version": "15w42a",
+        "md5": "d789ab5179e3bb5d298d82570ee123457cfdfb94"
+    },
+    {
+        "name": "Snapshot 15w41b",
+        "version": "15w41b",
+        "md5": "994a048f6a3f8f800f2807545b8401617c553dfc"
+    },
+    {
+        "name": "Snapshot 15w41a",
+        "version": "15w41a",
+        "md5": "92fcc884b954fb7e87b163d478fd5ff91bdb1550"
+    },
+    {
+        "name": "Snapshot 15w40b",
+        "version": "15w40b",
+        "md5": "adba98d3a02da95106d782991a90a199d38e5d9f"
+    },
+    {
+        "name": "Snapshot 15w40a",
+        "version": "15w40a",
+        "md5": "be6ffb291a743f64abff316bf96933a029e78712"
+    },
+    {
+        "name": "Snapshot 15w39c",
+        "version": "15w39c",
+        "md5": "d3f7fb05eef0331941b4161b1f2f2ded7151bbaf"
+    },
+    {
+        "name": "Snapshot 15w39b",
+        "version": "15w39b",
+        "md5": "031a5a79a1548f54c7bd148f6f3cf9e42fbd3222"
+    },
+    {
+        "name": "Snapshot 15w39a",
+        "version": "15w39a",
+        "md5": "871b86fac1a4d71642166e0deba2a4b85780d82a"
+    },
+    {
+        "name": "Snapshot 15w38b",
+        "version": "15w38b",
+        "md5": "41f8ae90397575214b958bb5ef99d25b541fe366"
+    },
+    {
+        "name": "Snapshot 15w38a",
+        "version": "15w38a",
+        "md5": "9b14cce8545a6f03f16ef52ef8a2725afaea5c1c"
+    },
+    {
+        "name": "Snapshot 15w37a",
+        "version": "15w37a",
+        "md5": "0f29d64f94ccc40d01ebc1ddd0c506edca7b5dfb"
+    },
+    {
+        "name": "Snapshot 15w36d",
+        "version": "15w36d",
+        "md5": "b862ed48ecf134683470145662ac8cb0e1ca7e4d"
+    },
+    {
+        "name": "Snapshot 15w36c",
+        "version": "15w36c",
+        "md5": "72a23cbf5f21b3589e230164f5c40c1aa7de36cd"
+    },
+    {
+        "name": "Snapshot 15w36b",
+        "version": "15w36b",
+        "md5": "81ab225579322b61b3a37f7d56f400077c1c5978"
+    },
+    {
+        "name": "Snapshot 15w36a",
+        "version": "15w36a",
+        "md5": "ee0b49a2fff99c93b7a216931c11292537eed473"
+    },
+    {
+        "name": "Snapshot 15w35e",
+        "version": "15w35e",
+        "md5": "04ade8521778da7786ea9c8bbda2fac005229e0f"
+    },
+    {
+        "name": "Snapshot 15w35d",
+        "version": "15w35d",
+        "md5": "ed244d36678d875b979f81dbea05acacb89dc4d1"
+    },
+    {
+        "name": "Snapshot 15w35c",
+        "version": "15w35c",
+        "md5": "a0f20e4bdd79e53d923d3fe2853ba11da993e6a1"
+    },
+    {
+        "name": "Snapshot 15w35b",
+        "version": "15w35b",
+        "md5": "e92badd361f83730436c010044099fdf1af60bab"
+    },
+    {
+        "name": "Snapshot 15w35a",
+        "version": "15w35a",
+        "md5": "a3a1c19d861bce39a129ef18226449ea02afb58a"
+    },
+    {
+        "name": "Snapshot 15w34d",
+        "version": "15w34d",
+        "md5": "8bf058527fd4bd5d2951e1573d0ff849aedb0197"
+    },
+    {
+        "name": "Snapshot 15w34c",
+        "version": "15w34c",
+        "md5": "639946a883a6a2636a82641a1fe4c9243c8e633c"
+    },
+    {
+        "name": "Snapshot 15w34b",
+        "version": "15w34b",
+        "md5": "6ee63157f9201f461e056652831348b9c1a51d8c"
+    },
+    {
+        "name": "Snapshot 15w34a",
+        "version": "15w34a",
+        "md5": "70103317cd7b973e4f8511a5d8973da20c6654d1"
+    },
+    {
+        "name": "Snapshot 15w33c",
+        "version": "15w33c",
+        "md5": "042b351243f4236d02976ffc1e7f83f93ac932c7"
+    },
+    {
+        "name": "Snapshot 15w33b",
+        "version": "15w33b",
+        "md5": "991c628d7c3ea224d90539297d8c2e9127b2489f"
+    },
+    {
+        "name": "Snapshot 15w33a",
+        "version": "15w33a",
+        "md5": "b2f50a0daf6fd2e70dac4d7da302524566b57a55"
+    },
+    {
+        "name": "Snapshot 15w32c",
+        "version": "15w32c",
+        "md5": "6bef1fd3f1cb34b1d6654d93c43abb899072bd24"
+    },
+    {
+        "name": "Snapshot 15w32b",
+        "version": "15w32b",
+        "md5": "53c13fc634c89d408155553ebc8724f4b900fa1f"
+    },
+    {
+        "name": "Snapshot 15w32a",
+        "version": "15w32a",
+        "md5": "5cb1aa4a4b26979405cea5a181bbe38b72a85add"
+    },
+    {
+        "name": "Snapshot 15w31c",
+        "version": "15w31c",
+        "md5": "4fec021cc8110ce87451e22e23e958ce9d8d61f2"
+    },
+    {
+        "name": "Snapshot 15w31b",
+        "version": "15w31b",
+        "md5": "67f5af98eeef5f6267aca782ea3a536d50f33bc6"
+    },
+    {
+        "name": "Snapshot 15w31a",
+        "version": "15w31a",
+        "md5": "7799f1f6a486be08185b470a64ca4649e37de578"
+    },
+    {
+        "name": "Snapshot 15w14a",
+        "version": "15w14a",
+        "md5": "f7d2bd26ce7893477fc1ca6e27b671345253bae4"
+    },
+    {
+        "name": "Snapshot 1.8.2-pre7",
+        "version": "1.8.2-pre7",
+        "md5": "61039f9df585c52fbeb2e95d1754852ac00b4344"
+    },
+    {
+        "name": "Snapshot 1.8.2-pre6",
+        "version": "1.8.2-pre6",
+        "md5": "cc40241ef5acc247048b9d351aefa6288de13d8b"
+    },
+    {
+        "name": "Snapshot 1.8.2-pre5",
+        "version": "1.8.2-pre5",
+        "md5": "0226544b417d842a3a78797784615f11f1262a79"
+    },
+    {
+        "name": "Snapshot 1.8.2-pre4",
+        "version": "1.8.2-pre4",
+        "md5": "b1d4937d5c39c5e1c462d39cc081544170c962b3"
+    },
+    {
+        "name": "Snapshot 1.8.2-pre3",
+        "version": "1.8.2-pre3",
+        "md5": "dd98a2d8148cdaa92fc0deb4201186d552201314"
+    },
+    {
+        "name": "Snapshot 1.8.2-pre2",
+        "version": "1.8.2-pre2",
+        "md5": "4c32f01c356568b6c6b3cecf4ab4d0f0e7e14fab"
+    },
+    {
+        "name": "Snapshot 1.8.2-pre1",
+        "version": "1.8.2-pre1",
+        "md5": "32320f5d6162cceed3cf618f3c37bde6978eacf2"
+    },
+    {
+        "name": "Snapshot 1.8.1-pre5",
+        "version": "1.8.1-pre5",
+        "md5": "a25350da18085ab12f01ba56ab03c562cc722a40"
+    },
+    {
+        "name": "Snapshot 1.8.1-pre4",
+        "version": "1.8.1-pre4",
+        "md5": "5420c131b360f58ecbeb970127a49b525b28f921"
+    },
+    {
+        "name": "Snapshot 1.8.1-pre3",
+        "version": "1.8.1-pre3",
+        "md5": "22440c0335d95efb7d52d9c844108aa2c69da179"
+    },
+    {
+        "name": "Snapshot 1.8.1-pre2",
+        "version": "1.8.1-pre2",
+        "md5": "d0b163d9a442e8b49187e4925ef75970ad451f41"
+    },
+    {
+        "name": "Snapshot 1.8.1-pre1",
+        "version": "1.8.1-pre1",
+        "md5": "dae8203bc40eb43e15e6e9ed454404f330c591f2"
+    },
+    {
+        "name": "Snapshot 1.8-pre3",
+        "version": "1.8-pre3",
+        "md5": "27fb956fd88ab39205c7c45a39ca4e8820f96cc4"
+    },
+    {
+        "name": "Snapshot 1.8-pre2",
+        "version": "1.8-pre2",
+        "md5": "5673d722ac14f571e6a46f368d34b144e90ef8ad"
+    },
+    {
+        "name": "Snapshot 1.8-pre1",
+        "version": "1.8-pre1",
+        "md5": "88b759849519ca8a7592a2e90d6891c98f50cc17"
+    },
+    {
+        "name": "Snapshot 14w34d",
+        "version": "14w34d",
+        "md5": "0e05b086df677d9802ff5335719149ea90b6f302"
+    },
+    {
+        "name": "Snapshot 14w34c",
+        "version": "14w34c",
+        "md5": "5ab3e11d059a6f321a1d284d6849b95264d77e66"
+    },
+    {
+        "name": "Snapshot 14w34b",
+        "version": "14w34b",
+        "md5": "7991f32cd598ac7e5a8cf11d91965e597ae148b6"
+    },
+    {
+        "name": "Snapshot 14w34a",
+        "version": "14w34a",
+        "md5": "e59eecd2f79579f7b87a89b14aa07671eb94c9b1"
+    },
+    {
+        "name": "Snapshot 14w33c",
+        "version": "14w33c",
+        "md5": "5479bbd5f4717d7c8bc8ca895b3e0894e490814e"
+    },
+    {
+        "name": "Snapshot 14w33b",
+        "version": "14w33b",
+        "md5": "7e0e5511b0049ba92e5c991b6bd0264932559af2"
+    },
+    {
+        "name": "Snapshot 14w33a",
+        "version": "14w33a",
+        "md5": "6c0d06c1b3d8c3365be6e1b9b269725eb4e05ee7"
+    },
+    {
+        "name": "Snapshot 14w32d",
+        "version": "14w32d",
+        "md5": "83d7acb6f94dc606591ebe4d7a06ad29127cd3de"
+    },
+    {
+        "name": "Snapshot 14w32c",
+        "version": "14w32c",
+        "md5": "5fee0612322feaf374867336375810580da6fab9"
+    },
+    {
+        "name": "Snapshot 14w32b",
+        "version": "14w32b",
+        "md5": "8aa6b045d31cc4a9224ecce602e9f5f748d8f460"
+    },
+    {
+        "name": "Snapshot 14w32a",
+        "version": "14w32a",
+        "md5": "d3b96be87d921fa4f95ea43e5283a253b778f24e"
+    },
+    {
+        "name": "Snapshot 14w31a",
+        "version": "14w31a",
+        "md5": "05fde0b4039104a27df8c7b95d327ecafc06cde7"
+    },
+    {
+        "name": "Snapshot 14w30c",
+        "version": "14w30c",
+        "md5": "2c936d1f410d636a348f100ab926d94d92b743b7"
+    },
+    {
+        "name": "Snapshot 14w30b",
+        "version": "14w30b",
+        "md5": "ee24a6e63b007b9ec97a591afe1a29a6bbbfe143"
+    },
+    {
+        "name": "Snapshot 14w30a",
+        "version": "14w30a",
+        "md5": "cb7bd4bebcb40c128a571c8f15fe1990b1f50a32"
+    },
+    {
+        "name": "Snapshot 14w29b",
+        "version": "14w29b",
+        "md5": "b81bb5f919d5489859e9a38c7f6b49e6931a8cc8"
+    },
+    {
+        "name": "Snapshot 14w29a",
+        "version": "14w29a",
+        "md5": "c16a61be653b5921391c55b337640ddfd7a5b472"
+    },
+    {
+        "name": "Snapshot 14w28b",
+        "version": "14w28b",
+        "md5": "aacec09f5ed0475eb474052a4a55b3ca6edaeecc"
+    },
+    {
+        "name": "Snapshot 14w28a",
+        "version": "14w28a",
+        "md5": "6987a36f248e88fd8b2366e87fd88834b4a06f7a"
+    },
+    {
+        "name": "Snapshot 14w27b",
+        "version": "14w27b",
+        "md5": "c5be337237224f752b2ea09d3a2a00a00b26e14b"
+    },
+    {
+        "name": "Snapshot 14w27a",
+        "version": "14w27a",
+        "md5": "b5350953ff062646d4a61b7c8fb4c0570829843a"
+    },
+    {
+        "name": "Snapshot 14w26c",
+        "version": "14w26c",
+        "md5": "247352905e446c66db85ecb26361a9b5a8eec4ea"
+    },
+    {
+        "name": "Snapshot 14w26b",
+        "version": "14w26b",
+        "md5": "0b461d7af1194a192f5b7a9a8989bab83f7317b0"
+    },
+    {
+        "name": "Snapshot 14w26a",
+        "version": "14w26a",
+        "md5": "9d167e0b009b99d637ad102a1cb4f5aeb1501e45"
+    },
+    {
+        "name": "Snapshot 14w25b",
+        "version": "14w25b",
+        "md5": "29209a8e73b6f4afa691d0682aa848c2a1f52dd7"
+    },
+    {
+        "name": "Snapshot 14w25a",
+        "version": "14w25a",
+        "md5": "e22dedab430bc1c0f938a1e1a2811d11fe29f67e"
+    },
+    {
+        "name": "Snapshot 14w21b",
+        "version": "14w21b",
+        "md5": "b02c5506df94aa5d5200ef063f1bab22ce260c8a"
+    },
+    {
+        "name": "Snapshot 14w21a",
+        "version": "14w21a",
+        "md5": "7e26d5c2feb9df58353b942418640164a8cd0fbd"
+    },
+    {
+        "name": "Snapshot 14w20b",
+        "version": "14w20b",
+        "md5": "93ff3d1043ecf25eaf7c9626d8cbde7986dde65d"
+    },
+    {
+        "name": "Snapshot 14w20a",
+        "version": "14w20a",
+        "md5": "4dfd82a84113cfb7e4b489c52caa68bc3f21198e"
+    },
+    {
+        "name": "Snapshot 1.7.10-pre4",
+        "version": "1.7.10-pre4",
+        "md5": "7c8249c626996c4474afe4f26071a91e7efd825a"
+    },
+    {
+        "name": "Snapshot 1.7.10-pre3",
+        "version": "1.7.10-pre3",
+        "md5": "b9fdcbd17407d9eaeedcf4ff79b3121ee40133db"
+    },
+    {
+        "name": "Snapshot 1.7.10-pre2",
+        "version": "1.7.10-pre2",
+        "md5": "ea9fdacf5b0eadfbec5f8aed89c4da3c6be87060"
+    },
+    {
+        "name": "Snapshot 1.7.10-pre1",
+        "version": "1.7.10-pre1",
+        "md5": "db79ef4be8b37093c7ca4ddbd54ede2ca21d2a9f"
+    },
+    {
+        "name": "Snapshot 14w19a",
+        "version": "14w19a",
+        "md5": "a7df79e00c4d75e3916438658839785a476bd6ac"
+    },
+    {
+        "name": "Snapshot 14w18b",
+        "version": "14w18b",
+        "md5": "d7300a576860c056938760153cbf56ed98e9c7f9"
+    },
+    {
+        "name": "Snapshot 14w18a",
+        "version": "14w18a",
+        "md5": "48d6b3b47e870f61a95645e2bc1a84a27a1da068"
+    },
+    {
+        "name": "Snapshot 14w17a",
+        "version": "14w17a",
+        "md5": "701dca9511fa3e6b26799d11475fb3a719d6a26a"
+    },
+    {
+        "name": "Snapshot 14w11b",
+        "version": "14w11b",
+        "md5": "58694879e09c500dccb00751ed85a1d6b983229d"
+    },
+    {
+        "name": "Snapshot 14w11a",
+        "version": "14w11a",
+        "md5": "286924e7082ff1f6baed77a100f73abae81f25e3"
+    },
+    {
+        "name": "Snapshot 1.7.6-pre2",
+        "version": "1.7.6-pre2",
+        "md5": "5aa5deddbe750a384bdb5ed0652bbda33cf4e5c8"
+    },
+    {
+        "name": "Snapshot 1.7.6-pre1",
+        "version": "1.7.6-pre1",
+        "md5": "121176f19f38780d0cd04bef87c1296fedb37cd0"
+    },
+    {
+        "name": "Snapshot 14w10c",
+        "version": "14w10c",
+        "md5": "d97cc24dad232b5452644facde54c47854283b99"
+    },
+    {
+        "name": "Snapshot 14w10b",
+        "version": "14w10b",
+        "md5": "2dd525cb725635b94c763c2efa5e1fe931a0d6d6"
+    },
+    {
+        "name": "Snapshot 14w10a",
+        "version": "14w10a",
+        "md5": "03503dc8c3f615bf8b65d8e1ebbf923e81162e3e"
+    },
+    {
+        "name": "Snapshot 14w08a",
+        "version": "14w08a",
+        "md5": "a2716623b9e2c01cf0a1ec44497cc3279fce8f6a"
+    },
+    {
+        "name": "Snapshot 14w07a",
+        "version": "14w07a",
+        "md5": "de78ac487cf3fb6770e8c15f83e2219d4df851ae"
+    },
+    {
+        "name": "Snapshot 14w06b",
+        "version": "14w06b",
+        "md5": "0591a5e7e299182c6849e705704095d2a1efe1d5"
+    },
+    {
+        "name": "Snapshot 14w06a",
+        "version": "14w06a",
+        "md5": "a6a41979ed198086f2c8ae638f26286b2dc931db"
+    },
+    {
+        "name": "Snapshot 14w05b",
+        "version": "14w05b",
+        "md5": "d2d2b00952748af9ee8e60f49b9998dcfad3071f"
+    },
+    {
+        "name": "Snapshot 14w05a",
+        "version": "14w05a",
+        "md5": "27abecb729cab3a6e11f635dae2cf9be5f620a75"
+    },
+    {
+        "name": "Snapshot 14w04b",
+        "version": "14w04b",
+        "md5": "7af6befa241678d09d4031fed5578785dd3c126d"
+    },
+    {
+        "name": "Snapshot 14w04a",
+        "version": "14w04a",
+        "md5": "bd483603d1b07d3ce3fde76a35abfb0489933d72"
+    },
+    {
+        "name": "Snapshot 14w03b",
+        "version": "14w03b",
+        "md5": "b8bee8cbf485aad0be9789fe58ab266d8fe82215"
+    },
+    {
+        "name": "Snapshot 14w03a",
+        "version": "14w03a",
+        "md5": "5cbd5319a7b1198f049286d443148f1b88ff7bc7"
+    },
+    {
+        "name": "Snapshot 14w02c",
+        "version": "14w02c",
+        "md5": "c844eb4e22c6c0a3b87835fc61a508caeeced1f9"
+    },
+    {
+        "name": "Snapshot 14w02b",
+        "version": "14w02b",
+        "md5": "2f873b2fd721c9ed5ef51e80df96d10e5390ee9f"
+    },
+    {
+        "name": "Snapshot 14w02a",
+        "version": "14w02a",
+        "md5": "b908214fb99891c4f1e77c21b1fcbe4f7cafdd58"
+    },
+    {
+        "name": "Snapshot 13w49a",
+        "version": "13w49a",
+        "md5": "164c350e011f491f6e12861ee4988ef2ccecfe0e"
+    },
+    {
+        "name": "Snapshot 13w48b",
+        "version": "13w48b",
+        "md5": "9ab8a06fe77ed7f553ae3427d304e9f55de339d9"
+    },
+    {
+        "name": "Snapshot 13w48a",
+        "version": "13w48a",
+        "md5": "8f43e47eb288d3485f7825c422e9c5bcaf6418af"
+    },
+    {
+        "name": "Snapshot 13w47e",
+        "version": "13w47e",
+        "md5": "0f08e81b37b2c06ead45f498a7c8efa10a02633a"
+    },
+    {
+        "name": "Snapshot 13w47d",
+        "version": "13w47d",
+        "md5": "28982e580acf736120a4f1c3e7418e2a8daa3a8c"
+    },
+    {
+        "name": "Snapshot 13w47c",
+        "version": "13w47c",
+        "md5": "5cf618125f87452e665f0097171d089f73dc7e1c"
+    },
+    {
+        "name": "Snapshot 13w47b",
+        "version": "13w47b",
+        "md5": "7c1b69de43b6edf1d20f5030b88df78fd08ad8c7"
+    },
+    {
+        "name": "Snapshot 13w47a",
+        "version": "13w47a",
+        "md5": "f3210daa0a05a88b8b8edadfc8af385ff3f88987"
+    },
+    {
+        "name": "Snapshot 1.7.1",
+        "version": "1.7.1",
+        "md5": "d26d79675147253b7a35dd32dc5dbba0af1be7e2"
+    },
+    {
+        "name": "Snapshot 1.7",
+        "version": "1.7",
+        "md5": "3f031ab8b9cafedeb822febe89d271b72565712c"
+    },
+    {
+        "name": "Snapshot 13w43a",
+        "version": "13w43a",
+        "md5": "0fd72957ddbedd604d2bdf155dd03c8501c48f48"
+    },
+    {
+        "name": "Snapshot 13w42b",
+        "version": "13w42b",
+        "md5": "1416ebe3d6e6aa62eaae305ce542c39b7dfcb2b9"
+    },
+    {
+        "name": "Snapshot 13w42a",
+        "version": "13w42a",
+        "md5": "d7007e5f46bb1ad4f4d38dc8cd2ea54898c6cccb"
+    },
+    {
+        "name": "Snapshot 13w41b",
+        "version": "13w41b",
+        "md5": "d0f1808505d59bd69c47d8e0ce01dc5936d34c34"
+    },
+    {
+        "name": "Snapshot 13w41a",
+        "version": "13w41a",
+        "md5": "fbe939a8a9246db801428e33a1c53506af637247"
+    },
+    {
+        "name": "Snapshot 13w39b",
+        "version": "13w39b",
+        "md5": "1db7286055aeb35c709d98ace1c9cdc739206d5a"
+    },
+    {
+        "name": "Snapshot 13w39a",
+        "version": "13w39a",
+        "md5": "10e8687a623cb3def606fa3855aaed5ef79aac66"
+    },
+    {
+        "name": "Snapshot 13w38c",
+        "version": "13w38c",
+        "md5": "03081b4b569174ec68ef9cdd574ee4feca05dea5"
+    },
+    {
+        "name": "Snapshot 13w38b",
+        "version": "13w38b",
+        "md5": "82588f79a6a61c4c4289a9dc60b7b7b3fedaead9"
+    },
+    {
+        "name": "Snapshot 13w38a",
+        "version": "13w38a",
+        "md5": "627585cdb9386e7f05cdfb8f092e5a303d4fd5f3"
+    },
+    {
+        "name": "Snapshot 13w37b",
+        "version": "13w37b",
+        "md5": "f6322a6791bbeabac94cbaa1cf9b779ad88b120f"
+    },
+    {
+        "name": "Snapshot 1.6.3",
+        "version": "1.6.3",
+        "md5": "5a4c69bdf7c4a9aa9580096805d8497ba7721e05"
+    },
+    {
+        "name": "Snapshot 13w37a",
+        "version": "13w37a",
+        "md5": "c3d3d936394b35f20b871b140f5a8e6079822e51"
+    },
+    {
+        "name": "Snapshot 13w36b",
+        "version": "13w36b",
+        "md5": "2b6cdcd2df82ca8f04c1c2c7d77faf4cd25151ea"
+    },
+    {
+        "name": "Snapshot 13w36a",
+        "version": "13w36a",
+        "md5": "8453f031175bac1a92db000befd14f70c8df8fb7"
+    },
+    {
+        "name": "Snapshot 1.6",
+        "version": "1.6",
+        "md5": "ee6d5161ac28eef285df571dc1235d48f03c3e88"
+    },
+    {
+        "name": "Snapshot 13w26a",
+        "version": "13w26a",
+        "md5": "bafe11faf3419c8813beb948e353912239d50bc1"
+    },
+    {
+        "name": "Snapshot 13w25c",
+        "version": "13w25c",
+        "md5": "0f21dbd39728a50843d1b20cf832f26aaada353d"
+    },
+    {
+        "name": "Snapshot 13w25b",
+        "version": "13w25b",
+        "md5": "9f7f205d7c00098d9aa6abd67ce4f93d0eeddcd7"
+    },
+    {
+        "name": "Snapshot 13w25a",
+        "version": "13w25a",
+        "md5": "e1c2e7376fe489c5eba744b010993c402ab3f3f2"
+    },
+    {
+        "name": "Snapshot 13w24b",
+        "version": "13w24b",
+        "md5": "9c312da9bdcc562dc57e235a7a56900148c77f8d"
+    },
+    {
+        "name": "Snapshot 13w24a",
+        "version": "13w24a",
+        "md5": "d0f1eb0455c1bc3f73d5fc7252e282fd614f1f5b"
+    },
+    {
+        "name": "Snapshot 13w23b",
+        "version": "13w23b",
+        "md5": "b6b627c0a5fe9f53a22892f21c473e19617c1c0d"
+    },
+    {
+        "name": "Snapshot 13w23a",
+        "version": "13w23a",
+        "md5": "b26a278856a6a4703054ad266b79b1ef397676c2"
+    },
+    {
+        "name": "Snapshot 13w22a",
+        "version": "13w22a",
+        "md5": "94b99928dccee27ad9b1d90bd00e8f68f38f92e4"
+    },
+    {
+        "name": "Snapshot 13w21b",
+        "version": "13w21b",
+        "md5": "f5236a7628c74c22c33f57b50cb755598042aa5b"
+    },
+    {
+        "name": "Snapshot 13w21a",
+        "version": "13w21a",
+        "md5": "a04b6f0349b8de64c68a9311b4eaff478e37b558"
+    },
+    {
+        "name": "Snapshot 13w19a",
+        "version": "13w19a",
+        "md5": "17997ee2d9a3ad1070a74707f58ebb3e3a46ae10"
+    },
+    {
+        "name": "Snapshot 13w18c",
+        "version": "13w18c",
+        "md5": "3f8dc565567174d777a416f979901e0fee010d2a"
+    },
+    {
+        "name": "Snapshot 13w18b",
+        "version": "13w18b",
+        "md5": "af7fd5e8cdc610f1e533ba7963bc39de422df1b6"
+    },
+    {
+        "name": "Snapshot 13w18a",
+        "version": "13w18a",
+        "md5": "6084eae41c6e28d58fe8a1ee4ab4389a392f0139"
+    },
+    {
+        "name": "Snapshot 13w17a",
+        "version": "13w17a",
+        "md5": "48ece561c3512b2f9c0915dad7c3cb65560ceb39"
+    },
+    {
+        "name": "Snapshot 13w16b",
+        "version": "13w16b",
+        "md5": "c125111764b5774403ff2183debbb9da4805a64f"
+    },
+    {
+        "name": "Snapshot 13w16a",
+        "version": "13w16a",
+        "md5": "dd76b63bad493e42b303dd8952c240f330251760"
+    },
+    {
+        "name": "Snapshot 1.5",
+        "version": "1.5",
+        "md5": "aedad5159ef56d69c5bcf77ed141f53430af43c3"
+    },
+    {
+        "name": "Snapshot 1.4.3",
+        "version": "1.4.3",
+        "md5": "9be68adf6e80721975df12f2445fa24617328d18"
+    },
+    {
+        "name": "Snapshot 1.4.1",
+        "version": "1.4.1",
+        "md5": "baa4e4a7adc3dc9fbfc5ea36f0777b68c9eb7f4a"
+    },
+    {
+        "name": "Snapshot 1.4",
+        "version": "1.4",
+        "md5": "9470a2bb0fcb8a426328441a01dba164fbbe52c9"
+    },
+    {
+        "name": "Snapshot 1.3",
+        "version": "1.3",
+        "md5": "cb21a9aaaf599c94dd7fa1b777b2f0cc37a776c7"
+    }
+]

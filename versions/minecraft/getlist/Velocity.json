@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Velocity 3.4.0-SNAPSHOT",
+        "version": "3.4.0-SNAPSHOT",
+        "md5": "0ed9a02dcb102b3a665ce9615691df32e919a0e7e986d86e932d52adf1bd3119"
+    },
+    {
+        "name": "Velocity 3.3.0-SNAPSHOT",
+        "version": "3.3.0-SNAPSHOT",
+        "md5": "06bb2a6ac16228a2f33a0336952624e6918a97535d36a3660725b18e2a6efdfb"
+    },
+    {
+        "name": "Velocity 3.2.0-SNAPSHOT",
+        "version": "3.2.0-SNAPSHOT",
+        "md5": "27f78414a3c39736130b28e69c2d22f52e13cb6c70a9245a7c07a4a76787723e"
+    },
+    {
+        "name": "Velocity 3.1.2-SNAPSHOT",
+        "version": "3.1.2-SNAPSHOT",
+        "md5": "823393405413413dae1f7c83c89851dbe7439e719cc31793a15b9aad951a4315"
+    },
+    {
+        "name": "Velocity 3.1.1-SNAPSHOT",
+        "version": "3.1.1-SNAPSHOT",
+        "md5": "f2fbf80d9ef089d9905db3b841232d25a2e16a6208dfadb5704a3d9f9ead8e8d"
+    },
+    {
+        "name": "Velocity 3.1.1",
+        "version": "3.1.1",
+        "md5": "89a44c6385e39712717e2476254f931717f4d718deeb72578d159187cf5119c7"
+    },
+    {
+        "name": "Velocity 3.1.0",
+        "version": "3.1.0",
+        "md5": "7b509535916a3ee4dacea289915a2851b87f4738bd42f12ff38b674417b5f683"
+    },
+    {
+        "name": "Velocity 1.1.9",
+        "version": "1.1.9",
+        "md5": "d6ba2c934eb956b3aea5381135fb6c5763bb3a50a85022671fac6f5bfed63843"
+    },
+    {
+        "name": "Velocity 1.0.10",
+        "version": "1.0.10",
+        "md5": "16e786af6b6c9c34e77f6229c8fd573b7b97a8394beb3575bfdfa0b34826cae3"
+    }
+]
